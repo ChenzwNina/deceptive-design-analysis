@@ -33,7 +33,7 @@ class DataAnalyzer():
         condition = component_mapping[index_int]["Condition"]
         return description_number, model, condition
     
-    def merge_categories(self, current, existing, level):
+    def merge_categories(self, current, existing, level, index_int, existing_index):
         
         if level == "dark pattern":
             existing["dark pattern"].append(current["dark pattern"][0])
@@ -43,12 +43,6 @@ class DataAnalyzer():
                     existing[f"{level}"][key] += 1 # Add number of votes to existing categories
                 else:
                     existing[f"{level}"][key] = 1   # Add new key-value pair
-            
-        # for key, value in current[f"{level}-instance"].items():
-        #     if key in existing[f"{level}-instance"]:
-        #         existing[f"{level}-instance"][key] += value # Add number of votes to existing categories
-        #     else:
-        #         existing[f"{level}-instance"][key] = value   # Add new key-value pair
         
 
     # Cleaning data
@@ -56,7 +50,7 @@ class DataAnalyzer():
         print("Total number of widgets", len(self.data))
         existing_index = {}
         problematic_index = {}
-        for item in self.data[0:]:
+        for item in self.data[0:20]:
 
             widget_label = {}
 
@@ -75,27 +69,26 @@ class DataAnalyzer():
             labeler_name = list(item.values())[0]["rater"]
 
             # Widget index
-            widget_index = f"index{index_int}"
 
             # If the widget is not marked as no dark pattern, but there is no selection, save it separately
             if problematic_widget == True:
-                problematic_index[widget_index] = labeler_name
+                problematic_index[index_int] = labeler_name
                 continue # Go to next widget
 
             # If index already exists, add labelers' name and new deceptive design to existing index info
-            if widget_index in existing_index:
+            if index_int in existing_index:
 
                 # Add labeler's name to labeler if the name does not exist
-                if labeler_name not in existing_index[widget_index]["labeler"]:
-                    existing_index[widget_index]["labeler"].append(labeler_name)
+                if labeler_name not in existing_index[index_int]["labeler"]:
+                    existing_index[index_int]["labeler"].append(labeler_name)
 
                 # Merge number of instances for each deceptive design and new categories into existing framework
                 levels = {0: "dark pattern", 1: "low-level", 2: "meso-level", 3: "high-level"}
-
                 for key, value in levels.items():
-                    existing = existing_index[widget_index]["pattern"][key]
+                    existing = existing_index[index_int]["pattern"][key]
                     current = deceptive_design_dict[key]
-                    self.merge_categories(current, existing, value)
+                    self.merge_categories(current, existing, value, index_int, existing_index)
+                
 
             # Else create a new dict to save the info
             else:
@@ -109,7 +102,9 @@ class DataAnalyzer():
                 widget_label["condition"] = condition # Condition
                 widget_label["pattern"] = deceptive_design_dict # Widget selected deceptive designs
                 widget_label["labeler"] = [labeler_name]
-                existing_index[widget_index] = widget_label 
+                existing_index[index_int] = widget_label
+            
+            # print("Full list", existing_index)
         
         return existing_index, problematic_index
     
@@ -127,7 +122,9 @@ class DataAnalyzer():
 
         if list(item.values())[0]["value"]["dark_pattern_type"] == "(none)":
             problematic_widget = True
-            low_level_type = meso_level_type = high_level_type = {}
+            low_level_type = {}
+            meso_level_type = {}
+            high_level_type = {}
         else:
             if not list(item.values())[0]["value"]["dark_pattern_type"][2]["no-dd"]:
                 
@@ -139,7 +136,9 @@ class DataAnalyzer():
                 problematic_widget = not(len(list(low_level_type.items())) or (len(list(meso_level_type.items()))))          
 
             else:
-                low_level_type = meso_level_type = high_level_type = {}
+                low_level_type = {}
+                meso_level_type = {}
+                high_level_type = {}
                 dark_pattern_or_no_list.append(False)
 
 
@@ -155,7 +154,6 @@ class DataAnalyzer():
 
         # # Append level categories to list
         deceptive_design_list.extend([dark_pattern_or_no,low_level_dict,meso_level_dict,high_level_dict])
-    
         return problematic_widget, deceptive_design_list
 
     
@@ -172,22 +170,22 @@ class DataAnalyzer():
         high_level_instance_dict = {}
 
 
-        for key, value in low_level_total.items():  # Iterate through key-value pairs
-
-            # Move meso-level categories to meso-level dict
+        for key in low_level_total.copy().keys():
+            value = low_level_total[key]
             if "sum" in key:
                 meso_level_total[key] = value
-            elif value > 0:  # If vote is more than 0, save it to dict
+
+            elif value > 0:
                 low_level_instance_dict[key] = value
                 low_level_type_dict[key] = 1
-        
+
         high_level_categories = ["obstruction-sum", "sneaking-sum", "interface-interference-sum", "forced-action-sum", "social-engineering-sum"]
         
         for key, value in meso_level_total.items():
             if value != 0 and key in high_level_categories:
                 high_level_instance_dict[key] = value
                 high_level_type_dict[key] = 1
-            elif value != 0:
+            elif value != 0 and key not in high_level_categories:
                 meso_level_instance_dict[key] = value
                 meso_level_type_dict[key] = 1
 
@@ -195,5 +193,5 @@ class DataAnalyzer():
 
         return dark_pattern_or_no_list, low_level_type_dict, meso_level_type_dict, high_level_type_dict
     
-path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "extract_data", "extracted_data_1.json"))
+path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "extract_data", "round1/valid_data.json"))
 analyzer = DataAnalyzer(path, "cleaned_label.json", "no_label_widget.json")
