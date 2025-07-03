@@ -7,10 +7,6 @@ labels = ["immortal-accounts-vote", "dead-end-vote", "no-way-back", "price-compa
 idx  = {lab: i for i, lab in enumerate(labels)}
 L = len(labels) # Vector length
 
-# 1. load ONE dataset
-with open("qualified.json") as fh:
-    units = json.load(fh)     
-
 # def to_vec(label_dict):
 #     """Convert one coder dict (possibly empty) to 0/1 vector length L."""
 #     v = np.zeros(L, dtype=int)
@@ -109,7 +105,8 @@ def alpha(distance_fn, encoder):
 
 # ---------------------------------------------------------------------
 # 2. load data ---------------------------------------------------------
-with open("qualified.json", encoding="utf-8") as fh:
+folder_name = "round2"
+with open(f"{folder_name}/qualified.json", encoding="utf-8") as fh:
     units = json.load(fh)          # dict: unit_id -> list of coder dicts
 
 # ---------------------------------------------------------------------

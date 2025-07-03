@@ -1,0 +1,254 @@
+index,status,categories,details
+100,consensus,['no-dd'],
+101,disagreement,,"{'Leica': ['visual-prominence-vote', 'confirmshaming-vote'], 'Nina': ['visual-prominence-vote', 'confirmshaming-vote', 'choice-overload-sum'], 'luna': ['visual-prominence-vote', 'confirmshaming-vote', 'positive-vote']}"
+102,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+104,consensus,['no-dd'],
+105,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['visual-prominence-vote'], 'luna': ['no-dd']}"
+106,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'high-demand-vote'], 'luna': ['visual-prominence-vote', 'bundling-vote', 'limited-time-vote']}"
+107,disagreement,,"{'Leica': ['hidden-information-sum'], 'Nina': ['forced-registration-sum', 'hidden-information-sum'], 'luna': ['hidden-information-sum']}"
+108,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-way-back'], 'luna': ['no-dd']}"
+109,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'limited-time-vote'], 'luna': ['visual-prominence-vote', 'limited-time-vote']}"
+110,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+111,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['dead-end-vote'], 'luna': ['conflicting-information-vote']}"
+112,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-dd'], 'luna': ['hidden-information-sum']}"
+113,consensus,['no-dd'],
+114,disagreement,,"{'Leica': ['endorsement-vote'], 'Nina': ['endorsement-vote'], 'luna': ['endorsement-vote', 'hidden-information-sum']}"
+115,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['high-demand-vote'], 'luna': ['no-dd']}"
+116,disagreement,,"{'Leica': ['no-way-back', 'dead-end-vote'], 'Nina': ['no-way-back'], 'luna': ['no-dd']}"
+117,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['visual-prominence-vote', 'forced-registration-sum', 'nagging-sum'], 'luna': ['no-dd']}"
+118,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'forced-registration-sum', 'hidden-information-sum'], 'luna': ['hidden-information-sum']}"
+120,disagreement,,"{'Leica': ['visual-prominence-vote', 'positive-vote'], 'Nina': ['visual-prominence-vote', 'confirmshaming-vote'], 'luna': ['visual-prominence-vote', 'extra-burden']}"
+121,disagreement,,"{'Leica': ['conflicting-information-vote'], 'Nina': ['no-dd'], 'luna': ['conflicting-information-vote']}"
+122,consensus,['no-dd'],
+123,disagreement,,"{'Leica': ['visual-prominence-vote', 'positive-vote', 'nagging-sum'], 'Nina': ['visual-prominence-vote', 'positive-vote', 'nagging-sum'], 'luna': ['nagging-sum', 'positive-vote']}"
+124,consensus,['no-dd'],
+125,consensus,['no-dd'],
+126,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+127,disagreement,,"{'Leica': ['visual-prominence-vote', 'nagging-sum'], 'Nina': ['visual-prominence-vote', 'limited-time-vote', 'hidden-information-sum', 'nagging-sum'], 'luna': ['visual-prominence-vote', 'low-stock-vote', 'limited-time-vote']}"
+128,disagreement,,"{'Leica': ['visual-prominence-vote', 'positive-vote'], 'Nina': ['information-without-context-vote', 'positive-vote'], 'luna': ['hidden-information-sum']}"
+129,consensus,['no-dd'],
+130,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['visual-prominence-vote', 'no-way-back', 'nagging-sum'], 'luna': ['bad-defaults-sum', 'positive-vote', 'nagging-sum']}"
+131,consensus,['no-dd'],
+132,consensus,['no-dd'],
+133,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-way-back'], 'luna': ['no-dd']}"
+134,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'nagging-sum'], 'luna': ['no-dd']}"
+135,disagreement,,"{'Leica': ['visual-prominence-vote', 'confirmshaming-vote'], 'Nina': ['visual-prominence-vote', 'confirmshaming-vote'], 'luna': ['confirmshaming-vote']}"
+136,disagreement,,"{'Leica': ['visual-prominence-vote', 'nagging-sum'], 'Nina': ['nagging-sum'], 'luna': ['positive-vote']}"
+137,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['endorsement-vote'], 'luna': ['hidden-information-sum', 'positive-vote']}"
+138,disagreement,,"{'Leica': ['visual-prominence-vote', 'positive-vote'], 'Nina': ['limited-time-vote'], 'luna': ['nagging-sum', 'positive-vote', 'limited-time-vote']}"
+139,consensus,['no-dd'],
+140,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['bad-defaults-sum', 'no-way-back'], 'luna': ['bad-defaults-sum']}"
+141,disagreement,,"{'Leica': ['visual-prominence-vote', 'nagging-sum'], 'Nina': ['visual-prominence-vote', 'limited-time-vote'], 'luna': ['visual-prominence-vote', 'limited-time-vote']}"
+142,consensus,['no-dd'],
+143,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['no-dd'], 'luna': ['visual-prominence-vote', 'conflicting-information-vote']}"
+144,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-way-back'], 'luna': ['no-dd']}"
+145,consensus,['no-dd'],
+146,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+147,disagreement,,"{'Leica': ['hidden-information-sum', 'positive-vote'], 'Nina': ['information-without-context-vote', 'positive-vote'], 'luna': ['no-dd']}"
+148,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'forced-registration-sum', 'hidden-information-sum'], 'luna': ['hidden-information-sum']}"
+149,consensus,['visual-prominence-vote'],
+14,consensus,['no-dd'],
+150,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-way-back'], 'luna': ['no-dd']}"
+152,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['confirmshaming-vote'], 'luna': ['no-dd']}"
+153,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['nagging-sum'], 'luna': ['no-dd']}"
+154,consensus,['no-dd'],
+155,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+156,consensus,['no-dd'],
+158,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['positive-vote'], 'luna': ['visual-prominence-vote']}"
+159,disagreement,,"{'Leica': ['hidden-information-sum'], 'Nina': ['forced-registration-sum', 'hidden-information-sum'], 'luna': ['no-dd']}"
+15,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['positive-vote'], 'luna': ['no-dd']}"
+160,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['visual-prominence-vote', 'positive-vote', 'nagging-sum'], 'luna': ['no-dd']}"
+161,disagreement,,"{'Leica': ['endorsement-vote'], 'Nina': ['visual-prominence-vote', 'nagging-sum'], 'luna': ['no-dd']}"
+162,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['visual-prominence-vote', 'limited-time-vote'], 'luna': ['visual-prominence-vote', 'limited-time-vote']}"
+163,consensus,['no-dd'],
+16,consensus,['no-dd'],
+17,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['no-dd'], 'luna': ['visual-prominence-vote']}"
+18,consensus,['no-dd'],
+19,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['positive-vote'], 'luna': ['no-dd']}"
+20,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['positive-vote'], 'luna': ['no-dd']}"
+21,consensus,['no-dd'],
+22,consensus,['no-dd'],
+23,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+24,disagreement,,"{'Leica': ['nagging-sum'], 'Nina': ['no-dd'], 'luna': ['visual-prominence-vote']}"
+25,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['positive-vote'], 'luna': ['no-dd']}"
+26,consensus,['no-dd'],
+27,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['confirmshaming-vote', 'positive-vote'], 'luna': ['no-dd']}"
+28,consensus,['no-dd'],
+29,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum', 'hidden-information-sum'], 'luna': ['hidden-information-sum']}"
+30,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-dd'], 'luna': ['positive-vote']}"
+31,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['positive-vote'], 'luna': ['no-dd']}"
+33,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum', 'hidden-information-sum'], 'luna': ['hidden-information-sum']}"
+34,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['positive-vote'], 'luna': ['visual-prominence-vote', 'limited-time-vote']}"
+35,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-dd'], 'luna': ['positive-vote']}"
+36,consensus,['no-dd'],
+37,disagreement,,"{'Leica': ['visual-prominence-vote', 'nagging-sum'], 'Nina': ['limited-time-vote'], 'luna': ['visual-prominence-vote', 'limited-time-vote']}"
+38,consensus,['no-dd'],
+39,consensus,['no-dd'],
+40,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+41,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-dd'], 'luna': ['bad-defaults-sum']}"
+42,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum', 'dead-end-vote'], 'luna': ['hidden-information-sum']}"
+43,consensus,['no-dd'],
+44,consensus,['no-dd'],
+45,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['dead-end-vote'], 'luna': ['conflicting-information-vote']}"
+46,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['confirmshaming-vote', 'positive-vote'], 'luna': ['confirmshaming-vote', 'positive-vote']}"
+47,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-dd'], 'luna': ['conflicting-information-vote']}"
+48,consensus,['no-dd'],
+49,consensus,['no-dd'],
+50,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+51,disagreement,,"{'Leica': ['nagging-sum'], 'Nina': ['visual-prominence-vote', 'high-demand-vote'], 'luna': ['visual-prominence-vote', 'limited-time-vote']}"
+52,disagreement,,"{'Leica': ['nagging-sum', 'no-way-back'], 'Nina': ['forced-registration-sum', 'hidden-information-sum'], 'luna': ['hidden-information-sum']}"
+53,disagreement,,"{'Leica': ['visual-prominence-vote', 'nagging-sum'], 'Nina': ['visual-prominence-vote', 'limited-time-vote'], 'luna': ['visual-prominence-vote']}"
+56,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'limited-time-vote'], 'luna': ['visual-prominence-vote', 'limited-time-vote']}"
+57,consensus,['no-dd'],
+58,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-way-back'], 'luna': ['no-dd']}"
+59,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['dead-end-vote'], 'luna': ['hidden-information-sum']}"
+60,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum', 'hidden-information-sum'], 'luna': ['no-dd']}"
+61,consensus,['no-dd'],
+62,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+63,disagreement,,"{'Leica': ['visual-prominence-vote', 'high-demand-vote', 'endorsement-vote'], 'Nina': ['visual-prominence-vote'], 'luna': ['conflicting-information-vote', 'hidden-information-sum']}"
+64,consensus,['no-dd'],
+65,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-dd'], 'luna': ['bad-defaults-sum']}"
+66,consensus,['no-dd'],
+67,disagreement,,"{'Leica': ['high-demand-vote', 'positive-vote'], 'Nina': ['high-demand-vote', 'positive-vote'], 'luna': ['hidden-information-sum', 'conflicting-information-vote', 'positive-vote']}"
+68,consensus,['no-dd'],
+69,disagreement,,"{'Leica': ['visual-prominence-vote', 'countdown-timer-vote'], 'Nina': ['visual-prominence-vote', 'countdown-timer-vote', 'nagging-sum'], 'luna': ['visual-prominence-vote', 'countdown-timer-vote']}"
+70,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'confirmshaming-vote'], 'luna': ['no-dd']}"
+71,consensus,['no-dd'],
+73,consensus,['no-dd'],
+74,disagreement,,"{'Leica': ['visual-prominence-vote', 'hidden-information-sum'], 'Nina': ['information-without-context-vote'], 'luna': ['no-dd']}"
+75,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['visual-prominence-vote'], 'luna': ['no-dd']}"
+76,consensus,['no-dd'],
+77,disagreement,,"{'Leica': ['visual-prominence-vote', 'nagging-sum'], 'Nina': ['visual-prominence-vote'], 'luna': ['nagging-sum', 'forced-registration-sum']}"
+78,consensus,['no-dd'],
+79,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'pressured-selling-vote', 'no-way-back'], 'luna': ['pressured-selling-vote', 'positive-vote']}"
+80,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote'], 'luna': ['visual-prominence-vote', 'discount-framing-manipulation', 'positive-vote']}"
+81,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['positive-vote'], 'luna': ['no-dd']}"
+82,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['positive-vote'], 'luna': ['no-dd']}"
+83,disagreement,,"{'Leica': ['visual-prominence-vote', 'limited-time-vote'], 'Nina': ['visual-prominence-vote', 'high-demand-vote', 'limited-time-vote'], 'luna': ['hidden-information-sum', 'limited-time-vote']}"
+84,consensus,['no-dd'],
+85,consensus,['no-dd'],
+86,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+87,disagreement,,"{'Leica': ['conflicting-information-vote'], 'Nina': ['conflicting-information-vote'], 'luna': ['no-dd']}"
+88,disagreement,,"{'Leica': ['nagging-sum'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+89,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['no-dd']}"
+90,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-dd'], 'luna': ['visual-prominence-vote']}"
+91,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['forced-registration-sum'], 'luna': ['hidden-information-sum']}"
+92,consensus,['no-dd'],
+93,disagreement,,"{'Leica': ['no-dd'], 'Nina': ['no-dd'], 'luna': ['bad-defaults-sum']}"
+94,disagreement,,"{'Leica': ['positive-vote'], 'Nina': ['visual-prominence-vote'], 'luna': ['no-dd']}"
+96,disagreement,,"{'Leica': ['conflicting-information-vote'], 'Nina': ['no-dd'], 'luna': ['conflicting-information-vote']}"
+97,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['visual-prominence-vote', 'limited-time-vote'], 'luna': ['visual-prominence-vote']}"
+98,disagreement,,"{'Leica': ['visual-prominence-vote'], 'Nina': ['pressured-selling-vote', 'no-way-back'], 'luna': ['visual-prominence-vote']}"
+99,consensus,['no-dd'],
+164,consensus,['no-dd'],
+166,disagreement,,"{'Isha': ['low-stock-vote', 'false-hierarchy-vote', 'high-demand-vote'], 'Nazanin': ['information-without-context-vote', 'high-demand-vote', 'low-stock-vote'], 'Nina': ['low-stock-vote', 'high-demand-vote']}"
+167,consensus,['no-dd'],
+168,consensus,['visual-prominence-vote'],
+169,disagreement,,"{'Isha': ['visual-prominence-vote', 'limited-time-vote'], 'Nazanin': ['endorsement-vote', 'limited-time-vote'], 'Nina': ['visual-prominence-vote']}"
+170,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['extra-burden'], 'Nina': ['no-dd']}"
+171,disagreement,,"{'Isha': ['visual-prominence-vote', 'no-way-back'], 'Nazanin': ['no-way-back'], 'Nina': ['no-dd']}"
+172,consensus,['no-dd'],
+173,disagreement,,"{'Isha': ['information-without-context-vote'], 'Nazanin': ['hidden-information-sum'], 'Nina': ['information-without-context-vote', 'positive-vote']}"
+174,disagreement,,"{'Isha': ['limited-time-vote'], 'Nazanin': ['limited-time-vote'], 'Nina': ['visual-prominence-vote', 'limited-time-vote']}"
+175,disagreement,,"{'Isha': ['nagging-sum', 'endorsement-vote'], 'Nazanin': ['visual-prominence-vote', 'endorsement-vote'], 'Nina': ['visual-prominence-vote', 'endorsement-vote']}"
+176,disagreement,,"{'Isha': ['positive-vote'], 'Nazanin': ['no-dd'], 'Nina': ['positive-vote']}"
+177,disagreement,,"{'Isha': ['high-demand-vote', 'positive-vote', 'limited-time-vote'], 'Nazanin': ['complex-language-vote', 'high-demand-vote', 'positive-vote', 'limited-time-vote'], 'Nina': ['complex-language-vote', 'positive-vote', 'limited-time-vote']}"
+178,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['no-dd'], 'Nina': ['hidden-information-sum']}"
+180,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['confirmshaming-vote'], 'Nina': ['no-dd']}"
+181,disagreement,,"{'Isha': ['confirmshaming-vote', 'positive-vote'], 'Nazanin': ['confirmshaming-vote'], 'Nina': ['visual-prominence-vote', 'confirmshaming-vote', 'positive-vote']}"
+183,disagreement,,"{'Isha': ['false-hierarchy-vote'], 'Nazanin': ['visual-prominence-vote', 'no-way-back'], 'Nina': ['visual-prominence-vote', 'nagging-sum']}"
+184,disagreement,,"{'Isha': ['forced-registration-sum', 'no-way-back'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['forced-registration-sum']}"
+185,disagreement,,"{'Isha': ['no-way-back', 'hidden-information-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['forced-registration-sum', 'hidden-information-sum']}"
+187,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['no-dd'], 'Nina': ['positive-vote']}"
+188,consensus,['no-dd'],
+189,disagreement,,"{'Isha': ['limited-time-vote'], 'Nazanin': ['limited-time-vote'], 'Nina': ['visual-prominence-vote', 'limited-time-vote']}"
+190,disagreement,,"{'Isha': ['positive-vote'], 'Nazanin': ['visual-prominence-vote', 'false-hierarchy-vote'], 'Nina': ['positive-vote']}"
+191,consensus,['no-dd'],
+192,disagreement,,"{'Isha': ['visual-prominence-vote', 'limited-time-vote'], 'Nazanin': ['countdown-timer-vote', 'limited-time-vote'], 'Nina': ['visual-prominence-vote', 'countdown-timer-vote']}"
+193,consensus,['no-dd'],
+194,disagreement,,"{'Isha': ['visual-prominence-vote', 'limited-time-vote'], 'Nazanin': ['countdown-timer-vote', 'limited-time-vote'], 'Nina': ['visual-prominence-vote', 'countdown-timer-vote']}"
+195,consensus,['forced-registration-sum'],
+197,disagreement,,"{'Isha': ['visual-prominence-vote', 'limited-time-vote'], 'Nazanin': ['countdown-timer-vote', 'extra-burden', 'no-way-back', 'limited-time-vote'], 'Nina': ['visual-prominence-vote', 'countdown-timer-vote']}"
+198,consensus,['no-dd'],
+199,consensus,['no-dd'],
+200,disagreement,,"{'Isha': ['hidden-information-sum'], 'Nazanin': ['forced-registration-sum', 'confirmshaming-vote'], 'Nina': ['forced-registration-sum', 'hidden-information-sum']}"
+201,consensus,['no-dd'],
+202,disagreement,,"{'Isha': ['information-without-context-vote', 'positive-vote'], 'Nazanin': ['nagging-sum', 'endorsement-vote', 'positive-vote'], 'Nina': ['positive-vote']}"
+203,disagreement,,"{'Isha': ['hidden-information-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['forced-registration-sum']}"
+204,consensus,['no-dd'],
+205,disagreement,,"{'Isha': ['visual-prominence-vote', 'positive-vote'], 'Nazanin': ['disguised-ad-vote', 'visual-prominence-vote', 'positive-vote'], 'Nina': ['positive-vote']}"
+206,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['no-dd'], 'Nina': ['conflicting-information-vote']}"
+207,disagreement,,"{'Isha': ['high-demand-vote', 'positive-vote'], 'Nazanin': ['disguised-ad-vote', 'high-demand-vote', 'endorsement-vote'], 'Nina': ['hidden-information-sum']}"
+208,disagreement,,"{'Isha': ['forced-registration-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['hidden-information-sum']}"
+209,consensus,['no-dd'],
+210,disagreement,,"{'Isha': ['information-without-context-vote'], 'Nazanin': ['endorsement-vote'], 'Nina': ['information-without-context-vote']}"
+211,disagreement,,"{'Isha': ['endorsement-vote'], 'Nazanin': ['no-dd'], 'Nina': ['no-dd']}"
+212,disagreement,,"{'Isha': ['positive-vote', 'limited-time-vote'], 'Nazanin': ['parasocial-vote', 'positive-vote', 'limited-time-vote'], 'Nina': ['visual-prominence-vote']}"
+213,disagreement,,"{'Isha': ['no-way-back'], 'Nazanin': ['extra-burden', 'dead-end-vote'], 'Nina': ['no-dd']}"
+214,disagreement,,"{'Isha': ['no-way-back'], 'Nazanin': ['no-way-back'], 'Nina': ['no-dd']}"
+215,disagreement,,"{'Isha': ['conflicting-information-vote', 'positive-vote'], 'Nazanin': ['no-dd'], 'Nina': ['no-dd']}"
+216,consensus,['no-dd'],
+217,disagreement,,"{'Isha': ['visual-prominence-vote', 'positive-vote'], 'Nazanin': ['hidden-information-sum', 'confirmshaming-vote', 'positive-vote'], 'Nina': ['positive-vote']}"
+218,consensus,['no-dd'],
+219,disagreement,,"{'Isha': ['visual-prominence-vote'], 'Nazanin': ['positive-vote'], 'Nina': ['no-dd']}"
+220,consensus,['no-dd'],
+221,consensus,['forced-registration-sum'],
+222,disagreement,,"{'Isha': ['hidden-information-sum', 'forced-registration-sum', 'positive-vote'], 'Nazanin': ['hidden-information-sum', 'positive-vote', 'information-without-context-vote', 'visual-prominence-vote', 'forced-registration-sum'], 'Nina': ['no-dd']}"
+224,disagreement,,"{'Isha': ['information-without-context-vote'], 'Nazanin': ['disguised-ad-vote', 'hidden-information-sum', 'false-hierarchy-vote', 'positive-vote'], 'Nina': ['positive-vote']}"
+225,disagreement,,"{'Isha': ['positive-vote'], 'Nazanin': ['confirmshaming-vote'], 'Nina': ['no-dd']}"
+226,disagreement,,"{'Isha': ['forced-registration-sum', 'hidden-information-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['forced-registration-sum']}"
+227,disagreement,,"{'Isha': ['forced-registration-sum', 'hidden-information-sum'], 'Nazanin': ['forced-registration-sum', 'no-way-back', 'hidden-information-sum', 'dead-end-vote'], 'Nina': ['forced-registration-sum', 'hidden-information-sum']}"
+228,disagreement,,"{'Isha': ['visual-prominence-vote', 'high-demand-vote'], 'Nazanin': ['activity-messages-vote'], 'Nina': ['visual-prominence-vote', 'conflicting-information-vote']}"
+229,disagreement,,"{'Isha': ['false-hierarchy-vote', 'high-demand-vote', 'limited-time-vote'], 'Nazanin': ['visual-prominence-vote', 'limited-time-vote'], 'Nina': ['visual-prominence-vote', 'limited-time-vote']}"
+231,disagreement,,"{'Isha': ['visual-prominence-vote', 'endorsement-vote'], 'Nazanin': ['no-dd'], 'Nina': ['no-dd']}"
+232,disagreement,,"{'Isha': ['visual-prominence-vote', 'no-way-back', 'limited-time-vote'], 'Nazanin': ['no-dd'], 'Nina': ['limited-time-vote']}"
+233,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['extra-burden'], 'Nina': ['no-dd']}"
+234,disagreement,,"{'Isha': ['endorsement-vote', 'hidden-information-sum'], 'Nazanin': ['information-without-context-vote', 'hidden-information-sum'], 'Nina': ['hidden-information-sum']}"
+236,disagreement,,"{'Isha': ['forced-registration-sum', 'hidden-information-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['forced-registration-sum']}"
+237,disagreement,,"{'Isha': ['forced-registration-sum', 'hidden-information-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['forced-registration-sum', 'hidden-information-sum']}"
+239,disagreement,,"{'Isha': ['visual-prominence-vote', 'positive-vote'], 'Nazanin': ['no-way-back'], 'Nina': ['no-dd']}"
+240,disagreement,,"{'Isha': ['positive-vote'], 'Nazanin': ['no-dd'], 'Nina': ['no-dd']}"
+241,consensus,['no-dd'],
+242,disagreement,,"{'Isha': ['extra-burden', 'positive-vote'], 'Nazanin': ['confirmshaming-vote'], 'Nina': ['no-dd']}"
+243,consensus,['no-dd'],
+244,disagreement,,"{'Isha': ['visual-prominence-vote', 'parasocial-vote'], 'Nazanin': ['parasocial-vote', 'confirmshaming-vote'], 'Nina': ['visual-prominence-vote']}"
+245,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['dead-end-vote'], 'Nina': ['no-dd']}"
+246,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['dead-end-vote'], 'Nina': ['no-dd']}"
+247,disagreement,,"{'Isha': ['no-way-back'], 'Nazanin': ['confirmshaming-vote', 'no-way-back'], 'Nina': ['no-dd']}"
+248,consensus,['no-dd'],
+249,consensus,['hidden-information-sum'],
+250,disagreement,,"{'Isha': ['no-way-back', 'positive-vote'], 'Nazanin': ['no-way-back'], 'Nina': ['no-dd']}"
+251,disagreement,,"{'Isha': ['bundling-vote', 'positive-vote'], 'Nazanin': ['bundling-vote', 'confirmshaming-vote'], 'Nina': ['visual-prominence-vote', 'hidden-information-sum']}"
+252,consensus,['forced-registration-sum'],
+253,disagreement,,"{'Isha': ['extra-burden', 'positive-vote'], 'Nazanin': ['confirmshaming-vote'], 'Nina': ['no-dd']}"
+254,consensus,['no-dd'],
+255,consensus,['no-dd'],
+256,disagreement,,"{'Isha': ['visual-prominence-vote', 'limited-time-vote'], 'Nazanin': ['visual-prominence-vote', 'positive-vote', 'limited-time-vote'], 'Nina': ['visual-prominence-vote', 'limited-time-vote']}"
+258,disagreement,,"{'Isha': ['visual-prominence-vote', 'limited-time-vote'], 'Nazanin': ['visual-prominence-vote', 'pressured-selling-vote', 'limited-time-vote'], 'Nina': ['visual-prominence-vote', 'countdown-timer-vote']}"
+260,consensus,"['confirmshaming-vote', 'positive-vote']",
+261,consensus,['no-dd'],
+262,disagreement,,"{'Isha': ['forced-registration-sum', 'hidden-information-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['no-dd']}"
+263,disagreement,,"{'Isha': ['positive-vote'], 'Nazanin': ['hidden-information-sum'], 'Nina': ['no-dd']}"
+264,consensus,['no-dd'],
+265,disagreement,,"{'Isha': ['high-demand-vote', 'positive-vote'], 'Nazanin': ['hidden-information-sum', 'high-demand-vote', 'positive-vote'], 'Nina': ['high-demand-vote']}"
+266,consensus,['no-dd'],
+267,disagreement,,"{'Isha': ['no-way-back'], 'Nazanin': ['no-way-back'], 'Nina': ['no-dd']}"
+268,disagreement,,"{'Isha': ['disguised-ad-vote', 'false-hierarchy-vote', 'hidden-information-sum'], 'Nazanin': ['disguised-ad-vote', 'visual-prominence-vote', 'hidden-information-sum'], 'Nina': ['no-dd']}"
+269,consensus,['no-dd'],
+270,disagreement,,"{'Isha': ['confirmshaming-vote', 'positive-vote'], 'Nazanin': ['no-dd'], 'Nina': ['no-dd']}"
+271,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['extra-burden'], 'Nina': ['no-dd']}"
+272,disagreement,,"{'Isha': ['visual-prominence-vote', 'parasocial-vote', 'limited-time-vote'], 'Nazanin': ['visual-prominence-vote', 'confirmshaming-vote', 'limited-time-vote'], 'Nina': ['limited-time-vote']}"
+273,disagreement,,"{'Isha': ['confirmshaming-vote', 'positive-vote'], 'Nazanin': ['confirmshaming-vote', 'positive-vote'], 'Nina': ['confirmshaming-vote']}"
+274,disagreement,,"{'Isha': ['visual-prominence-vote'], 'Nazanin': ['extra-burden'], 'Nina': ['visual-prominence-vote']}"
+275,consensus,['forced-registration-sum'],
+276,disagreement,,"{'Isha': ['disguised-ad-vote', 'positive-vote'], 'Nazanin': ['disguised-ad-vote', 'visual-prominence-vote', 'positive-vote'], 'Nina': ['positive-vote']}"
+277,disagreement,,"{'Isha': ['high-demand-vote', 'positive-vote'], 'Nazanin': ['high-demand-vote', 'positive-vote'], 'Nina': ['high-demand-vote']}"
+278,disagreement,,"{'Isha': ['no-way-back'], 'Nazanin': ['extra-burden'], 'Nina': ['no-dd']}"
+279,consensus,['no-dd'],
+280,disagreement,,"{'Isha': ['forced-registration-sum', 'hidden-information-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['forced-registration-sum']}"
+281,disagreement,,"{'Isha': ['no-way-back'], 'Nazanin': ['no-way-back'], 'Nina': ['no-dd']}"
+282,consensus,['visual-prominence-vote'],
+283,consensus,['no-dd'],
+284,consensus,['no-dd'],
+285,disagreement,,"{'Isha': ['forced-registration-sum', 'hidden-information-sum'], 'Nazanin': ['forced-registration-sum'], 'Nina': ['forced-registration-sum']}"
+286,disagreement,,"{'Isha': ['no-dd'], 'Nazanin': ['visual-prominence-vote'], 'Nina': ['no-dd']}"

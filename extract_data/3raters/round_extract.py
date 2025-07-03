@@ -108,7 +108,7 @@ def clean_missing_unsure_data(selected_list, double_check_index):
 def save_to_json(folder_name, selected_list, error_list, double_check_dict):
     with open(f"{folder_name}/valid_data.json", "w") as f:
         json.dump(selected_list, f, indent=4)
-    print(f"Round json saved to extracted_data.json")
+    print(f"Round json saved to valid_data.json")
 
     with open(f"{folder_name}/rater_not_valid.json", "w") as f1:
         json.dump(error_list, f1, indent=4)
@@ -118,7 +118,7 @@ def save_to_json(folder_name, selected_list, error_list, double_check_dict):
         json.dump(double_check_dict, f2, indent=4)
     print("Data saved to rechecked_data.json")
 
-path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "download_data_cloudflare", "kv_pairs.json"))
+path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "download_data_cloudflare", "kv_pairs.json"))
 with open(path) as f:
     data = json.load(f)
 
@@ -126,7 +126,7 @@ with open(path) as f:
 # Extract data range
 start_index = 14
 end_index = 163
-rater_name = ["luna", "Nina", "Leica"]
+rater_name = ["Nina", "luna", "Leica"]
 round_number = 1
 
 folder_name = f"round{round_number}"

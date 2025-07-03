@@ -1,0 +1,1112 @@
+{
+    "164": [
+        {},
+        {},
+        {}
+    ],
+    "166": [
+        {
+            "false-hierarchy-vote": 1,
+            "high-demand-vote": 1,
+            "low-stock-vote": 1
+        },
+        {
+            "information-without-context-vote": 1,
+            "high-demand-vote": 1,
+            "low-stock-vote": 1
+        },
+        {
+            "high-demand-vote": 1,
+            "low-stock-vote": 1
+        }
+    ],
+    "167": [
+        {},
+        {},
+        {}
+    ],
+    "168": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "169": [
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "endorsement-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "170": [
+        {},
+        {
+            "extra-burden": 1
+        },
+        {}
+    ],
+    "171": [
+        {
+            "no-way-back": 1,
+            "visual-prominence-vote": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "172": [
+        {},
+        {},
+        {}
+    ],
+    "173": [
+        {
+            "information-without-context-vote": 1
+        },
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "information-without-context-vote": 1,
+            "positive-vote": 1
+        }
+    ],
+    "174": [
+        {
+            "limited-time-vote": 1
+        },
+        {
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "175": [
+        {
+            "nagging-sum": 1,
+            "endorsement-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "endorsement-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "endorsement-vote": 1
+        }
+    ],
+    "176": [
+        {
+            "positive-vote": 1
+        },
+        {},
+        {
+            "positive-vote": 1
+        }
+    ],
+    "177": [
+        {
+            "positive-vote": 1,
+            "high-demand-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "complex-language-vote": 1,
+            "high-demand-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "complex-language-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "178": [
+        {},
+        {},
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "180": [
+        {},
+        {
+            "confirmshaming-vote": 1
+        },
+        {}
+    ],
+    "181": [
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "confirmshaming-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        }
+    ],
+    "183": [
+        {
+            "false-hierarchy-vote": 1
+        },
+        {
+            "no-way-back": 1,
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        }
+    ],
+    "184": [
+        {
+            "no-way-back": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "185": [
+        {
+            "no-way-back": 1,
+            "hidden-information-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        }
+    ],
+    "187": [
+        {},
+        {},
+        {
+            "positive-vote": 1
+        }
+    ],
+    "188": [
+        {},
+        {},
+        {}
+    ],
+    "189": [
+        {
+            "limited-time-vote": 1
+        },
+        {
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "190": [
+        {
+            "positive-vote": 1
+        },
+        {
+            "false-hierarchy-vote": 1,
+            "visual-prominence-vote": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "191": [
+        {},
+        {},
+        {}
+    ],
+    "192": [
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "countdown-timer-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "countdown-timer-vote": 1
+        }
+    ],
+    "193": [
+        {},
+        {},
+        {}
+    ],
+    "194": [
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "countdown-timer-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "countdown-timer-vote": 1
+        }
+    ],
+    "195": [
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "197": [
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "no-way-back": 1,
+            "extra-burden": 1,
+            "countdown-timer-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "countdown-timer-vote": 1
+        }
+    ],
+    "198": [
+        {},
+        {},
+        {}
+    ],
+    "199": [
+        {},
+        {},
+        {}
+    ],
+    "200": [
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "forced-registration-sum": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        }
+    ],
+    "201": [
+        {},
+        {},
+        {}
+    ],
+    "202": [
+        {
+            "information-without-context-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "nagging-sum": 1,
+            "endorsement-vote": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "203": [
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "204": [
+        {},
+        {},
+        {}
+    ],
+    "205": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "disguised-ad-vote": 1,
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "206": [
+        {},
+        {},
+        {
+            "conflicting-information-vote": 1
+        }
+    ],
+    "207": [
+        {
+            "positive-vote": 1,
+            "high-demand-vote": 1
+        },
+        {
+            "disguised-ad-vote": 1,
+            "high-demand-vote": 1,
+            "endorsement-vote": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "208": [
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "209": [
+        {},
+        {},
+        {}
+    ],
+    "210": [
+        {
+            "information-without-context-vote": 1
+        },
+        {
+            "endorsement-vote": 1
+        },
+        {
+            "information-without-context-vote": 1
+        }
+    ],
+    "211": [
+        {
+            "endorsement-vote": 1
+        },
+        {},
+        {}
+    ],
+    "212": [
+        {
+            "positive-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "parasocial-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "213": [
+        {
+            "no-way-back": 1
+        },
+        {
+            "dead-end-vote": 1,
+            "extra-burden": 1
+        },
+        {}
+    ],
+    "214": [
+        {
+            "no-way-back": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "215": [
+        {
+            "conflicting-information-vote": 1,
+            "positive-vote": 1
+        },
+        {},
+        {}
+    ],
+    "216": [
+        {},
+        {},
+        {}
+    ],
+    "217": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "hidden-information-sum": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "218": [
+        {},
+        {},
+        {}
+    ],
+    "219": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "positive-vote": 1
+        },
+        {}
+    ],
+    "220": [
+        {},
+        {},
+        {}
+    ],
+    "221": [
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "222": [
+        {
+            "positive-vote": 1,
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "information-without-context-vote": 1,
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {}
+    ],
+    "224": [
+        {
+            "information-without-context-vote": 1
+        },
+        {
+            "disguised-ad-vote": 1,
+            "false-hierarchy-vote": 1,
+            "positive-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "225": [
+        {
+            "positive-vote": 1
+        },
+        {
+            "confirmshaming-vote": 1
+        },
+        {}
+    ],
+    "226": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "227": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "dead-end-vote": 1,
+            "no-way-back": 1,
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        }
+    ],
+    "228": [
+        {
+            "visual-prominence-vote": 1,
+            "high-demand-vote": 1
+        },
+        {
+            "activity-messages-vote": 1
+        },
+        {
+            "conflicting-information-vote": 1,
+            "visual-prominence-vote": 1
+        }
+    ],
+    "229": [
+        {
+            "false-hierarchy-vote": 1,
+            "high-demand-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "231": [
+        {
+            "visual-prominence-vote": 1,
+            "endorsement-vote": 1
+        },
+        {},
+        {}
+    ],
+    "232": [
+        {
+            "no-way-back": 1,
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {},
+        {
+            "limited-time-vote": 1
+        }
+    ],
+    "233": [
+        {},
+        {
+            "extra-burden": 1
+        },
+        {}
+    ],
+    "234": [
+        {
+            "hidden-information-sum": 1,
+            "endorsement-vote": 1
+        },
+        {
+            "information-without-context-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "236": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "237": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        }
+    ],
+    "239": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "240": [
+        {
+            "positive-vote": 1
+        },
+        {},
+        {}
+    ],
+    "241": [
+        {},
+        {},
+        {}
+    ],
+    "242": [
+        {
+            "extra-burden": 1,
+            "positive-vote": 1
+        },
+        {
+            "confirmshaming-vote": 1
+        },
+        {}
+    ],
+    "243": [
+        {},
+        {},
+        {}
+    ],
+    "244": [
+        {
+            "visual-prominence-vote": 1,
+            "parasocial-vote": 1
+        },
+        {
+            "parasocial-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "245": [
+        {},
+        {
+            "dead-end-vote": 1
+        },
+        {}
+    ],
+    "246": [
+        {},
+        {
+            "dead-end-vote": 1
+        },
+        {}
+    ],
+    "247": [
+        {
+            "no-way-back": 1
+        },
+        {
+            "no-way-back": 1,
+            "confirmshaming-vote": 1
+        },
+        {}
+    ],
+    "248": [
+        {},
+        {},
+        {}
+    ],
+    "249": [
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "250": [
+        {
+            "no-way-back": 1,
+            "positive-vote": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "251": [
+        {
+            "bundling-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "bundling-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "hidden-information-sum": 1
+        }
+    ],
+    "252": [
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "253": [
+        {
+            "extra-burden": 1,
+            "positive-vote": 1
+        },
+        {
+            "confirmshaming-vote": 1
+        },
+        {}
+    ],
+    "254": [
+        {},
+        {},
+        {}
+    ],
+    "255": [
+        {},
+        {},
+        {}
+    ],
+    "256": [
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "258": [
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "pressured-selling-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "countdown-timer-vote": 1
+        }
+    ],
+    "260": [
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        }
+    ],
+    "261": [
+        {},
+        {},
+        {}
+    ],
+    "262": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {}
+    ],
+    "263": [
+        {
+            "positive-vote": 1
+        },
+        {
+            "hidden-information-sum": 1
+        },
+        {}
+    ],
+    "264": [
+        {},
+        {},
+        {}
+    ],
+    "265": [
+        {
+            "positive-vote": 1,
+            "high-demand-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "hidden-information-sum": 1,
+            "high-demand-vote": 1
+        },
+        {
+            "high-demand-vote": 1
+        }
+    ],
+    "266": [
+        {},
+        {},
+        {}
+    ],
+    "267": [
+        {
+            "no-way-back": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "268": [
+        {
+            "disguised-ad-vote": 1,
+            "false-hierarchy-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {
+            "disguised-ad-vote": 1,
+            "visual-prominence-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {}
+    ],
+    "269": [
+        {},
+        {},
+        {}
+    ],
+    "270": [
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {},
+        {}
+    ],
+    "271": [
+        {},
+        {
+            "extra-burden": 1
+        },
+        {}
+    ],
+    "272": [
+        {
+            "visual-prominence-vote": 1,
+            "parasocial-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "limited-time-vote": 1
+        }
+    ],
+    "273": [
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "confirmshaming-vote": 1
+        }
+    ],
+    "274": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "extra-burden": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "275": [
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "276": [
+        {
+            "disguised-ad-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "disguised-ad-vote": 1,
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "277": [
+        {
+            "positive-vote": 1,
+            "high-demand-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "high-demand-vote": 1
+        },
+        {
+            "high-demand-vote": 1
+        }
+    ],
+    "278": [
+        {
+            "no-way-back": 1
+        },
+        {
+            "extra-burden": 1
+        },
+        {}
+    ],
+    "279": [
+        {},
+        {},
+        {}
+    ],
+    "280": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "281": [
+        {
+            "no-way-back": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "282": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "283": [
+        {},
+        {},
+        {}
+    ],
+    "284": [
+        {},
+        {},
+        {}
+    ],
+    "285": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        },
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "286": [
+        {},
+        {
+            "visual-prominence-vote": 1
+        },
+        {}
+    ]
+}

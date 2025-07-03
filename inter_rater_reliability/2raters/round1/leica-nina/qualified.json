@@ -1,7 +1,6 @@
 {
     "100": [
         {},
-        {},
         {}
     ],
     "101": [
@@ -13,22 +12,15 @@
             "visual-prominence-vote": 1,
             "choice-overload-sum": 1,
             "confirmshaming-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
-            "positive-vote": 1,
-            "confirmshaming-vote": 1
         }
     ],
     "102": [
         {},
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "104": [
-        {},
         {},
         {}
     ],
@@ -36,8 +28,7 @@
         {},
         {
             "visual-prominence-vote": 1
-        },
-        {}
+        }
     ],
     "106": [
         {
@@ -46,11 +37,6 @@
         {
             "visual-prominence-vote": 1,
             "high-demand-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
-            "bundling-vote": 1,
-            "limited-time-vote": 1
         }
     ],
     "107": [
@@ -60,25 +46,17 @@
         {
             "hidden-information-sum": 1,
             "forced-registration-sum": 1
-        },
-        {
-            "hidden-information-sum": 1
         }
     ],
     "108": [
         {},
         {
             "no-way-back": 1
-        },
-        {}
+        }
     ],
     "109": [
         {
             "visual-prominence-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
-            "limited-time-vote": 1
         },
         {
             "visual-prominence-vote": 1,
@@ -89,27 +67,19 @@
         {},
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "111": [
         {},
         {
             "dead-end-vote": 1
-        },
-        {
-            "conflicting-information-vote": 1
         }
     ],
     "112": [
         {},
-        {},
-        {
-            "hidden-information-sum": 1
-        }
+        {}
     ],
     "113": [
-        {},
         {},
         {}
     ],
@@ -119,18 +89,13 @@
         },
         {
             "endorsement-vote": 1
-        },
-        {
-            "hidden-information-sum": 1,
-            "endorsement-vote": 1
         }
     ],
     "115": [
         {},
         {
             "high-demand-vote": 1
-        },
-        {}
+        }
     ],
     "116": [
         {
@@ -139,8 +104,7 @@
         },
         {
             "no-way-back": 1
-        },
-        {}
+        }
     ],
     "117": [
         {},
@@ -148,8 +112,7 @@
             "visual-prominence-vote": 1,
             "nagging-sum": 1,
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "118": [
         {
@@ -159,9 +122,6 @@
             "visual-prominence-vote": 1,
             "hidden-information-sum": 1,
             "forced-registration-sum": 1
-        },
-        {
-            "hidden-information-sum": 1
         }
     ],
     "120": [
@@ -172,23 +132,15 @@
         {
             "visual-prominence-vote": 1,
             "confirmshaming-vote": 1
-        },
-        {
-            "extra-burden": 1,
-            "visual-prominence-vote": 1
         }
     ],
     "121": [
         {
             "conflicting-information-vote": 1
         },
-        {},
-        {
-            "conflicting-information-vote": 1
-        }
+        {}
     ],
     "122": [
-        {},
         {},
         {}
     ],
@@ -202,19 +154,13 @@
             "visual-prominence-vote": 1,
             "positive-vote": 1,
             "nagging-sum": 1
-        },
-        {
-            "positive-vote": 1,
-            "nagging-sum": 1
         }
     ],
     "124": [
         {},
-        {},
         {}
     ],
     "125": [
-        {},
         {},
         {}
     ],
@@ -222,8 +168,7 @@
         {},
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "127": [
         {
@@ -235,11 +180,6 @@
             "hidden-information-sum": 1,
             "nagging-sum": 1,
             "limited-time-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
-            "low-stock-vote": 1,
-            "limited-time-vote": 1
         }
     ],
     "128": [
@@ -250,13 +190,9 @@
         {
             "information-without-context-vote": 1,
             "positive-vote": 1
-        },
-        {
-            "hidden-information-sum": 1
         }
     ],
     "129": [
-        {},
         {},
         {}
     ],
@@ -266,20 +202,13 @@
             "no-way-back": 1,
             "visual-prominence-vote": 1,
             "nagging-sum": 1
-        },
-        {
-            "bad-defaults-sum": 1,
-            "positive-vote": 1,
-            "nagging-sum": 1
         }
     ],
     "131": [
         {},
-        {},
         {}
     ],
     "132": [
-        {},
         {},
         {}
     ],
@@ -287,8 +216,7 @@
         {},
         {
             "no-way-back": 1
-        },
-        {}
+        }
     ],
     "134": [
         {
@@ -297,8 +225,7 @@
         {
             "visual-prominence-vote": 1,
             "nagging-sum": 1
-        },
-        {}
+        }
     ],
     "135": [
         {
@@ -307,9 +234,6 @@
         },
         {
             "visual-prominence-vote": 1,
-            "confirmshaming-vote": 1
-        },
-        {
             "confirmshaming-vote": 1
         }
     ],
@@ -320,9 +244,6 @@
         },
         {
             "nagging-sum": 1
-        },
-        {
-            "positive-vote": 1
         }
     ],
     "137": [
@@ -331,10 +252,6 @@
         },
         {
             "endorsement-vote": 1
-        },
-        {
-            "positive-vote": 1,
-            "hidden-information-sum": 1
         }
     ],
     "138": [
@@ -344,15 +261,9 @@
         },
         {
             "limited-time-vote": 1
-        },
-        {
-            "positive-vote": 1,
-            "nagging-sum": 1,
-            "limited-time-vote": 1
         }
     ],
     "139": [
-        {},
         {},
         {}
     ],
@@ -360,9 +271,6 @@
         {},
         {
             "no-way-back": 1,
-            "bad-defaults-sum": 1
-        },
-        {
             "bad-defaults-sum": 1
         }
     ],
@@ -374,14 +282,9 @@
         {
             "visual-prominence-vote": 1,
             "limited-time-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
-            "limited-time-vote": 1
         }
     ],
     "142": [
-        {},
         {},
         {}
     ],
@@ -389,21 +292,15 @@
         {
             "visual-prominence-vote": 1
         },
-        {},
-        {
-            "conflicting-information-vote": 1,
-            "visual-prominence-vote": 1
-        }
+        {}
     ],
     "144": [
         {},
         {
             "no-way-back": 1
-        },
-        {}
+        }
     ],
     "145": [
-        {},
         {},
         {}
     ],
@@ -413,8 +310,7 @@
         },
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "147": [
         {
@@ -424,8 +320,7 @@
         {
             "information-without-context-vote": 1,
             "positive-vote": 1
-        },
-        {}
+        }
     ],
     "148": [
         {
@@ -435,9 +330,6 @@
             "visual-prominence-vote": 1,
             "hidden-information-sum": 1,
             "forced-registration-sum": 1
-        },
-        {
-            "hidden-information-sum": 1
         }
     ],
     "149": [
@@ -446,34 +338,31 @@
         },
         {
             "visual-prominence-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1
         }
+    ],
+    "14": [
+        {},
+        {}
     ],
     "150": [
         {},
         {
             "no-way-back": 1
-        },
-        {}
+        }
     ],
     "152": [
         {},
         {
             "confirmshaming-vote": 1
-        },
-        {}
+        }
     ],
     "153": [
         {},
         {
             "nagging-sum": 1
-        },
-        {}
+        }
     ],
     "154": [
-        {},
         {},
         {}
     ],
@@ -481,11 +370,9 @@
         {},
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "156": [
-        {},
         {},
         {}
     ],
@@ -495,9 +382,6 @@
         },
         {
             "positive-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1
         }
     ],
     "159": [
@@ -507,8 +391,15 @@
         {
             "hidden-information-sum": 1,
             "forced-registration-sum": 1
+        }
+    ],
+    "15": [
+        {
+            "positive-vote": 1
         },
-        {}
+        {
+            "positive-vote": 1
+        }
     ],
     "160": [
         {},
@@ -516,8 +407,7 @@
             "visual-prominence-vote": 1,
             "positive-vote": 1,
             "nagging-sum": 1
-        },
-        {}
+        }
     ],
     "161": [
         {
@@ -526,15 +416,10 @@
         {
             "visual-prominence-vote": 1,
             "nagging-sum": 1
-        },
-        {}
+        }
     ],
     "162": [
         {},
-        {
-            "visual-prominence-vote": 1,
-            "limited-time-vote": 1
-        },
         {
             "visual-prominence-vote": 1,
             "limited-time-vote": 1
@@ -542,31 +427,105 @@
     ],
     "163": [
         {},
+        {}
+    ],
+    "16": [
         {},
         {}
     ],
-    "30": [
+    "17": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {}
+    ],
+    "18": [
         {},
-        {},
+        {}
+    ],
+    "19": [
+        {
+            "positive-vote": 1
+        },
         {
             "positive-vote": 1
         }
+    ],
+    "20": [
+        {
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "21": [
+        {},
+        {}
+    ],
+    "22": [
+        {},
+        {}
+    ],
+    "23": [
+        {},
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "24": [
+        {
+            "nagging-sum": 1
+        },
+        {}
+    ],
+    "25": [
+        {
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "26": [
+        {},
+        {}
+    ],
+    "27": [
+        {
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        }
+    ],
+    "28": [
+        {},
+        {}
+    ],
+    "29": [
+        {},
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        }
+    ],
+    "30": [
+        {},
+        {}
     ],
     "31": [
         {},
         {
             "positive-vote": 1
-        },
-        {}
+        }
     ],
     "33": [
         {},
         {
             "hidden-information-sum": 1,
             "forced-registration-sum": 1
-        },
-        {
-            "hidden-information-sum": 1
         }
     ],
     "34": [
@@ -574,25 +533,16 @@
             "visual-prominence-vote": 1
         },
         {
-            "visual-prominence-vote": 1,
-            "high-demand-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
-            "limited-time-vote": 1
+            "positive-vote": 1
         }
     ],
     "35": [
         {},
         {
             "no-way-back": 1
-        },
-        {
-            "positive-vote": 1
         }
     ],
     "36": [
-        {},
         {},
         {}
     ],
@@ -602,21 +552,14 @@
             "nagging-sum": 1
         },
         {
-            "visual-prominence-vote": 1,
-            "limited-time-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
             "limited-time-vote": 1
         }
     ],
     "38": [
         {},
-        {},
         {}
     ],
     "39": [
-        {},
         {},
         {}
     ],
@@ -624,33 +567,31 @@
         {},
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "41": [
         {},
-        {},
-        {
-            "bad-defaults-sum": 1
-        }
+        {}
     ],
     "42": [
         {},
         {
             "dead-end-vote": 1,
             "forced-registration-sum": 1
-        },
-        {
-            "hidden-information-sum": 1
         }
+    ],
+    "43": [
+        {},
+        {}
+    ],
+    "44": [
+        {},
+        {}
     ],
     "45": [
         {},
         {
             "dead-end-vote": 1
-        },
-        {
-            "conflicting-information-vote": 1
         }
     ],
     "46": [
@@ -660,31 +601,88 @@
         {
             "positive-vote": 1,
             "confirmshaming-vote": 1
-        },
-        {
-            "positive-vote": 1,
-            "confirmshaming-vote": 1
         }
     ],
     "47": [
         {},
-        {},
-        {
-            "conflicting-information-vote": 1
-        }
+        {}
     ],
     "48": [
-        {},
         {},
         {}
     ],
     "49": [
         {},
+        {}
+    ],
+    "50": [
+        {},
+        {
+            "forced-registration-sum": 1
+        }
+    ],
+    "51": [
+        {
+            "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "high-demand-vote": 1
+        }
+    ],
+    "52": [
+        {
+            "no-way-back": 1,
+            "nagging-sum": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        }
+    ],
+    "53": [
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "56": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "57": [
         {},
         {}
     ],
-    "61": [
+    "58": [
         {},
+        {
+            "no-way-back": 1
+        }
+    ],
+    "59": [
+        {},
+        {
+            "dead-end-vote": 1
+        }
+    ],
+    "60": [
+        {},
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        }
+    ],
+    "61": [
         {},
         {}
     ],
@@ -692,8 +690,7 @@
         {},
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "63": [
         {
@@ -703,26 +700,17 @@
         },
         {
             "visual-prominence-vote": 1
-        },
-        {
-            "conflicting-information-vote": 1,
-            "hidden-information-sum": 1
         }
     ],
     "64": [
-        {},
         {},
         {}
     ],
     "65": [
         {},
-        {},
-        {
-            "bad-defaults-sum": 1
-        }
+        {}
     ],
     "66": [
-        {},
         {},
         {}
     ],
@@ -734,15 +722,9 @@
         {
             "positive-vote": 1,
             "high-demand-vote": 1
-        },
-        {
-            "conflicting-information-vote": 1,
-            "positive-vote": 1,
-            "hidden-information-sum": 1
         }
     ],
     "68": [
-        {},
         {},
         {}
     ],
@@ -755,10 +737,6 @@
             "visual-prominence-vote": 1,
             "nagging-sum": 1,
             "countdown-timer-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
-            "countdown-timer-vote": 1
         }
     ],
     "70": [
@@ -768,16 +746,13 @@
         {
             "visual-prominence-vote": 1,
             "confirmshaming-vote": 1
-        },
-        {}
+        }
     ],
     "71": [
-        {},
         {},
         {}
     ],
     "73": [
-        {},
         {},
         {}
     ],
@@ -788,18 +763,15 @@
         },
         {
             "information-without-context-vote": 1
-        },
-        {}
+        }
     ],
     "75": [
         {},
         {
             "visual-prominence-vote": 1
-        },
-        {}
+        }
     ],
     "76": [
-        {},
         {},
         {}
     ],
@@ -810,14 +782,9 @@
         },
         {
             "visual-prominence-vote": 1
-        },
-        {
-            "nagging-sum": 1,
-            "forced-registration-sum": 1
         }
     ],
     "78": [
-        {},
         {},
         {}
     ],
@@ -829,10 +796,6 @@
             "no-way-back": 1,
             "visual-prominence-vote": 1,
             "pressured-selling-vote": 1
-        },
-        {
-            "pressured-selling-vote": 1,
-            "positive-vote": 1
         }
     ],
     "80": [
@@ -841,11 +804,6 @@
         },
         {
             "visual-prominence-vote": 1
-        },
-        {
-            "discount-framing-manipulation": 1,
-            "visual-prominence-vote": 1,
-            "positive-vote": 1
         }
     ],
     "81": [
@@ -854,15 +812,13 @@
         },
         {
             "positive-vote": 1
-        },
-        {}
+        }
     ],
     "82": [
         {},
         {
             "positive-vote": 1
-        },
-        {}
+        }
     ],
     "83": [
         {
@@ -873,19 +829,13 @@
             "visual-prominence-vote": 1,
             "high-demand-vote": 1,
             "limited-time-vote": 1
-        },
-        {
-            "hidden-information-sum": 1,
-            "limited-time-vote": 1
         }
     ],
     "84": [
         {},
-        {},
         {}
     ],
     "85": [
-        {},
         {},
         {}
     ],
@@ -893,8 +843,7 @@
         {},
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "87": [
         {
@@ -902,8 +851,7 @@
         },
         {
             "conflicting-information-vote": 1
-        },
-        {}
+        }
     ],
     "88": [
         {
@@ -911,43 +859,31 @@
         },
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "89": [
         {},
         {
             "forced-registration-sum": 1
-        },
-        {}
+        }
     ],
     "90": [
         {},
-        {},
-        {
-            "visual-prominence-vote": 1
-        }
+        {}
     ],
     "91": [
         {},
         {
             "forced-registration-sum": 1
-        },
-        {
-            "hidden-information-sum": 1
         }
     ],
     "92": [
-        {},
         {},
         {}
     ],
     "93": [
         {},
-        {},
-        {
-            "bad-defaults-sum": 1
-        }
+        {}
     ],
     "94": [
         {
@@ -955,17 +891,13 @@
         },
         {
             "visual-prominence-vote": 1
-        },
-        {}
+        }
     ],
     "96": [
         {
             "conflicting-information-vote": 1
         },
-        {},
-        {
-            "conflicting-information-vote": 1
-        }
+        {}
     ],
     "97": [
         {
@@ -974,9 +906,6 @@
         {
             "visual-prominence-vote": 1,
             "limited-time-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1
         }
     ],
     "98": [
@@ -986,13 +915,9 @@
         {
             "no-way-back": 1,
             "pressured-selling-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1
         }
     ],
     "99": [
-        {},
         {},
         {}
     ]

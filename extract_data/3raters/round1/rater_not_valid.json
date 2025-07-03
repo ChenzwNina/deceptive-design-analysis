@@ -1,7 +1,7 @@
 [
     {
         "14Hanyu": {
-            "time": 1750790357022,
+            "time": 1751077548000,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -86,7 +86,7 @@
     },
     {
         "15Hanyu": {
-            "time": 1750790362474,
+            "time": 1751077598919,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -111,7 +111,7 @@
                         "pressured-selling-vote": 0,
                         "bad-defaults-sum": 0,
                         "cuteness-vote": 0,
-                        "positive-vote": 0,
+                        "positive-vote": 1,
                         "trick-questions-sum": 0,
                         "choice-overload-sum": 0,
                         "hidden-information-sum": 0,
@@ -147,9 +147,9 @@
                         "(de)contextualizing-cues-sum": 0,
                         "sneaking-sum": 0,
                         "manipulating-choice-architecture-sum": 0,
-                        "emotional-sum": 0,
+                        "emotional-sum": 1,
                         "language-inaccessibility-sum": 0,
-                        "interface-interference-sum": 0,
+                        "interface-interference-sum": 1,
                         "forced-communication-sum": 0,
                         "gamification-sum": 0,
                         "attention-capture-sum": 0,
@@ -162,7 +162,7 @@
                     },
                     {
                         "not-sure": false,
-                        "no-dd": true
+                        "no-dd": false
                     }
                 ],
                 "explanation": ""
@@ -341,7 +341,7 @@
     },
     {
         "16Hanyu": {
-            "time": 1750791004812,
+            "time": 1751077604885,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -426,7 +426,7 @@
     },
     {
         "17Hanyu": {
-            "time": 1750791509385,
+            "time": 1751077613719,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -511,7 +511,7 @@
     },
     {
         "18Hanyu": {
-            "time": 1750791551451,
+            "time": 1751077618043,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -596,7 +596,7 @@
     },
     {
         "19Hanyu": {
-            "time": 1750791571987,
+            "time": 1751077624035,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -681,7 +681,7 @@
     },
     {
         "20Hanyu": {
-            "time": 1750791687138,
+            "time": 1751077644950,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -706,7 +706,7 @@
                         "pressured-selling-vote": 0,
                         "bad-defaults-sum": 0,
                         "cuteness-vote": 0,
-                        "positive-vote": 0,
+                        "positive-vote": 1,
                         "trick-questions-sum": 0,
                         "choice-overload-sum": 0,
                         "hidden-information-sum": 0,
@@ -742,9 +742,9 @@
                         "(de)contextualizing-cues-sum": 0,
                         "sneaking-sum": 0,
                         "manipulating-choice-architecture-sum": 0,
-                        "emotional-sum": 0,
+                        "emotional-sum": 1,
                         "language-inaccessibility-sum": 0,
-                        "interface-interference-sum": 0,
+                        "interface-interference-sum": 1,
                         "forced-communication-sum": 0,
                         "gamification-sum": 0,
                         "attention-capture-sum": 0,
@@ -757,7 +757,7 @@
                     },
                     {
                         "not-sure": false,
-                        "no-dd": true
+                        "no-dd": false
                     }
                 ],
                 "explanation": ""
@@ -766,7 +766,7 @@
     },
     {
         "21Hanyu": {
-            "time": 1750791735462,
+            "time": 1751077648903,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -851,7 +851,7 @@
     },
     {
         "22Hanyu": {
-            "time": 1750791779381,
+            "time": 1751077663768,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -936,7 +936,7 @@
     },
     {
         "23Hanyu": {
-            "time": 1750791910221,
+            "time": 1751077741259,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -970,7 +970,7 @@
                         "feedward-ambiguity-sum": 0,
                         "nagging-sum": 0,
                         "forced-continuity-sum": 0,
-                        "forced-registration-sum": 0,
+                        "forced-registration-sum": 1,
                         "privacy-zukering-vote": 0,
                         "friend-spam-vote": 0,
                         "address-book-leeching-vote": 0,
@@ -1003,7 +1003,7 @@
                         "forced-communication-sum": 0,
                         "gamification-sum": 0,
                         "attention-capture-sum": 0,
-                        "forced-action-sum": 0,
+                        "forced-action-sum": 1,
                         "scarcity-sum": 0,
                         "social-proof-sum": 0,
                         "urgency-sum": 0,
@@ -1012,7 +1012,7 @@
                     },
                     {
                         "not-sure": false,
-                        "no-dd": true
+                        "no-dd": false
                     }
                 ],
                 "explanation": ""
@@ -1021,7 +1021,7 @@
     },
     {
         "24Hanyu": {
-            "time": 1750792230856,
+            "time": 1751077863808,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1106,7 +1106,7 @@
     },
     {
         "25Hanyu": {
-            "time": 1750792245037,
+            "time": 1751077879159,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1191,7 +1191,7 @@
     },
     {
         "26Hanyu": {
-            "time": 1750792264917,
+            "time": 1751077884590,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1276,7 +1276,7 @@
     },
     {
         "27Hanyu": {
-            "time": 1750792306929,
+            "time": 1751077922408,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1301,7 +1301,7 @@
                         "pressured-selling-vote": 0,
                         "bad-defaults-sum": 0,
                         "cuteness-vote": 0,
-                        "positive-vote": 0,
+                        "positive-vote": 1,
                         "trick-questions-sum": 0,
                         "choice-overload-sum": 0,
                         "hidden-information-sum": 0,
@@ -1337,9 +1337,9 @@
                         "(de)contextualizing-cues-sum": 0,
                         "sneaking-sum": 0,
                         "manipulating-choice-architecture-sum": 0,
-                        "emotional-sum": 0,
+                        "emotional-sum": 1,
                         "language-inaccessibility-sum": 0,
-                        "interface-interference-sum": 0,
+                        "interface-interference-sum": 1,
                         "forced-communication-sum": 0,
                         "gamification-sum": 0,
                         "attention-capture-sum": 0,
@@ -1361,7 +1361,7 @@
     },
     {
         "28Hanyu": {
-            "time": 1750792322181,
+            "time": 1751077928039,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1446,7 +1446,7 @@
     },
     {
         "29Hanyu": {
-            "time": 1750792457878,
+            "time": 1751077945595,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1480,7 +1480,7 @@
                         "feedward-ambiguity-sum": 0,
                         "nagging-sum": 0,
                         "forced-continuity-sum": 0,
-                        "forced-registration-sum": 0,
+                        "forced-registration-sum": 1,
                         "privacy-zukering-vote": 0,
                         "friend-spam-vote": 0,
                         "address-book-leeching-vote": 0,
@@ -1513,7 +1513,7 @@
                         "forced-communication-sum": 0,
                         "gamification-sum": 0,
                         "attention-capture-sum": 0,
-                        "forced-action-sum": 0,
+                        "forced-action-sum": 1,
                         "scarcity-sum": 0,
                         "social-proof-sum": 0,
                         "urgency-sum": 0,
@@ -1531,7 +1531,7 @@
     },
     {
         "30Hanyu": {
-            "time": 1750792649006,
+            "time": 1751077986919,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1579,7 +1579,7 @@
                         "parasocial-vote": 0,
                         "activity-messages-vote": 0,
                         "countdown-timer-vote": 0,
-                        "limited-time-vote": 1,
+                        "limited-time-vote": 0,
                         "confirmshaming-vote": 0
                     },
                     {
@@ -1601,13 +1601,13 @@
                         "forced-action-sum": 0,
                         "scarcity-sum": 0,
                         "social-proof-sum": 0,
-                        "urgency-sum": 1,
+                        "urgency-sum": 0,
                         "personalization-sum": 0,
-                        "social-engineering-sum": 1
+                        "social-engineering-sum": 0
                     },
                     {
                         "not-sure": false,
-                        "no-dd": false
+                        "no-dd": true
                     }
                 ],
                 "explanation": ""
@@ -1616,7 +1616,7 @@
     },
     {
         "31Hanyu": {
-            "time": 1750792659422,
+            "time": 1751077995161,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1701,7 +1701,7 @@
     },
     {
         "32Hanyu": {
-            "time": 1750792665969,
+            "time": 1751078003894,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1786,7 +1786,7 @@
     },
     {
         "33Hanyu": {
-            "time": 1750792694442,
+            "time": 1751078012860,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1820,7 +1820,7 @@
                         "feedward-ambiguity-sum": 0,
                         "nagging-sum": 0,
                         "forced-continuity-sum": 0,
-                        "forced-registration-sum": 0,
+                        "forced-registration-sum": 1,
                         "privacy-zukering-vote": 0,
                         "friend-spam-vote": 0,
                         "address-book-leeching-vote": 0,
@@ -1853,7 +1853,7 @@
                         "forced-communication-sum": 0,
                         "gamification-sum": 0,
                         "attention-capture-sum": 0,
-                        "forced-action-sum": 0,
+                        "forced-action-sum": 1,
                         "scarcity-sum": 0,
                         "social-proof-sum": 0,
                         "urgency-sum": 0,
@@ -1871,7 +1871,7 @@
     },
     {
         "34Hanyu": {
-            "time": 1750793356236,
+            "time": 1751078137120,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -1956,14 +1956,14 @@
     },
     {
         "35Hanyu": {
-            "time": 1750813311852,
+            "time": 1751078161153,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
                     {
                         "immortal-accounts-vote": 0,
                         "dead-end-vote": 0,
-                        "no-way-back": 0,
+                        "no-way-back": 1,
                         "price-comparison-prevention-vote": 0,
                         "intermediate-currency-vote": 0,
                         "discount-framing-manipulation": 0,
@@ -2008,10 +2008,10 @@
                         "confirmshaming-vote": 0
                     },
                     {
-                        "roach-motel-sum": 0,
+                        "roach-motel-sum": 1,
                         "creating-barriers-sum": 0,
                         "adding-steps-sum": 0,
-                        "obstruction-sum": 0,
+                        "obstruction-sum": 1,
                         "bait-and-switch-sum": 0,
                         "hiding-information-sum": 0,
                         "(de)contextualizing-cues-sum": 0,
@@ -2032,7 +2032,7 @@
                     },
                     {
                         "not-sure": false,
-                        "no-dd": true
+                        "no-dd": false
                     }
                 ],
                 "explanation": ""
@@ -2041,7 +2041,7 @@
     },
     {
         "36Hanyu": {
-            "time": 1750813338877,
+            "time": 1751078196596,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -2126,7 +2126,7 @@
     },
     {
         "37Hanyu": {
-            "time": 1750813496543,
+            "time": 1751078218249,
             "rater": "Hanyu",
             "value": {
                 "dark_pattern_type": [
@@ -2151,7 +2151,7 @@
                         "pressured-selling-vote": 0,
                         "bad-defaults-sum": 0,
                         "cuteness-vote": 0,
-                        "positive-vote": 1,
+                        "positive-vote": 0,
                         "trick-questions-sum": 0,
                         "choice-overload-sum": 0,
                         "hidden-information-sum": 0,
@@ -2187,9 +2187,9 @@
                         "(de)contextualizing-cues-sum": 0,
                         "sneaking-sum": 0,
                         "manipulating-choice-architecture-sum": 0,
-                        "emotional-sum": 1,
+                        "emotional-sum": 0,
                         "language-inaccessibility-sum": 0,
-                        "interface-interference-sum": 1,
+                        "interface-interference-sum": 0,
                         "forced-communication-sum": 0,
                         "gamification-sum": 0,
                         "attention-capture-sum": 0,

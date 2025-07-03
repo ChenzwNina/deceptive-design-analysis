@@ -1,0 +1,700 @@
+{
+    "100": [
+        {},
+        {}
+    ],
+    "101": [
+        {
+            "visual-prominence-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        }
+    ],
+    "102": [
+        {},
+        {}
+    ],
+    "104": [
+        {},
+        {}
+    ],
+    "105": [
+        {},
+        {}
+    ],
+    "106": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "bundling-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "107": [
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "108": [
+        {},
+        {}
+    ],
+    "109": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "110": [
+        {},
+        {}
+    ],
+    "111": [
+        {},
+        {
+            "conflicting-information-vote": 1
+        }
+    ],
+    "112": [
+        {},
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "113": [
+        {},
+        {}
+    ],
+    "114": [
+        {
+            "endorsement-vote": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "endorsement-vote": 1
+        }
+    ],
+    "115": [
+        {},
+        {}
+    ],
+    "116": [
+        {
+            "dead-end-vote": 1,
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "117": [
+        {},
+        {}
+    ],
+    "118": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "120": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "extra-burden": 1,
+            "visual-prominence-vote": 1
+        }
+    ],
+    "121": [
+        {
+            "conflicting-information-vote": 1
+        },
+        {
+            "conflicting-information-vote": 1
+        }
+    ],
+    "122": [
+        {},
+        {}
+    ],
+    "123": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "positive-vote": 1,
+            "nagging-sum": 1
+        }
+    ],
+    "124": [
+        {},
+        {}
+    ],
+    "125": [
+        {},
+        {}
+    ],
+    "126": [
+        {},
+        {}
+    ],
+    "127": [
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "low-stock-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "128": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "129": [
+        {},
+        {}
+    ],
+    "130": [
+        {},
+        {
+            "bad-defaults-sum": 1,
+            "positive-vote": 1,
+            "nagging-sum": 1
+        }
+    ],
+    "131": [
+        {},
+        {}
+    ],
+    "132": [
+        {},
+        {}
+    ],
+    "133": [
+        {},
+        {}
+    ],
+    "134": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {}
+    ],
+    "135": [
+        {
+            "visual-prominence-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "confirmshaming-vote": 1
+        }
+    ],
+    "136": [
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "positive-vote": 1
+        }
+    ],
+    "137": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "hidden-information-sum": 1
+        }
+    ],
+    "138": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "nagging-sum": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "139": [
+        {},
+        {}
+    ],
+    "140": [
+        {},
+        {
+            "bad-defaults-sum": 1
+        }
+    ],
+    "141": [
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "142": [
+        {},
+        {}
+    ],
+    "143": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "conflicting-information-vote": 1,
+            "visual-prominence-vote": 1
+        }
+    ],
+    "144": [
+        {},
+        {}
+    ],
+    "145": [
+        {},
+        {}
+    ],
+    "146": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {}
+    ],
+    "147": [
+        {
+            "positive-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {}
+    ],
+    "148": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "149": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "150": [
+        {},
+        {}
+    ],
+    "152": [
+        {},
+        {}
+    ],
+    "153": [
+        {},
+        {}
+    ],
+    "154": [
+        {},
+        {}
+    ],
+    "155": [
+        {},
+        {}
+    ],
+    "156": [
+        {},
+        {}
+    ],
+    "158": [
+        {
+            "positive-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "159": [
+        {
+            "hidden-information-sum": 1
+        },
+        {}
+    ],
+    "160": [
+        {},
+        {}
+    ],
+    "161": [
+        {
+            "endorsement-vote": 1
+        },
+        {}
+    ],
+    "162": [
+        {},
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "163": [
+        {},
+        {}
+    ],
+    "30": [
+        {},
+        {
+            "positive-vote": 1
+        }
+    ],
+    "31": [
+        {},
+        {}
+    ],
+    "33": [
+        {},
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "34": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "35": [
+        {},
+        {
+            "positive-vote": 1
+        }
+    ],
+    "36": [
+        {},
+        {}
+    ],
+    "37": [
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "38": [
+        {},
+        {}
+    ],
+    "39": [
+        {},
+        {}
+    ],
+    "40": [
+        {},
+        {}
+    ],
+    "41": [
+        {},
+        {
+            "bad-defaults-sum": 1
+        }
+    ],
+    "42": [
+        {},
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "45": [
+        {},
+        {
+            "conflicting-information-vote": 1
+        }
+    ],
+    "46": [
+        {
+            "positive-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        }
+    ],
+    "47": [
+        {},
+        {
+            "conflicting-information-vote": 1
+        }
+    ],
+    "48": [
+        {},
+        {}
+    ],
+    "49": [
+        {},
+        {}
+    ],
+    "61": [
+        {},
+        {}
+    ],
+    "62": [
+        {},
+        {}
+    ],
+    "63": [
+        {
+            "visual-prominence-vote": 1,
+            "high-demand-vote": 1,
+            "endorsement-vote": 1
+        },
+        {
+            "conflicting-information-vote": 1,
+            "hidden-information-sum": 1
+        }
+    ],
+    "64": [
+        {},
+        {}
+    ],
+    "65": [
+        {},
+        {
+            "bad-defaults-sum": 1
+        }
+    ],
+    "66": [
+        {},
+        {}
+    ],
+    "67": [
+        {
+            "positive-vote": 1,
+            "high-demand-vote": 1
+        },
+        {
+            "conflicting-information-vote": 1,
+            "positive-vote": 1,
+            "hidden-information-sum": 1
+        }
+    ],
+    "68": [
+        {},
+        {}
+    ],
+    "69": [
+        {
+            "visual-prominence-vote": 1,
+            "countdown-timer-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "countdown-timer-vote": 1
+        }
+    ],
+    "70": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {}
+    ],
+    "71": [
+        {},
+        {}
+    ],
+    "72": [
+        {},
+        {}
+    ],
+    "73": [
+        {},
+        {}
+    ],
+    "74": [
+        {
+            "visual-prominence-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {}
+    ],
+    "75": [
+        {},
+        {}
+    ],
+    "76": [
+        {},
+        {}
+    ],
+    "77": [
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "nagging-sum": 1,
+            "forced-registration-sum": 1
+        }
+    ],
+    "78": [
+        {},
+        {}
+    ],
+    "79": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "pressured-selling-vote": 1,
+            "positive-vote": 1
+        }
+    ],
+    "80": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "discount-framing-manipulation": 1,
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        }
+    ],
+    "81": [
+        {
+            "positive-vote": 1
+        },
+        {}
+    ],
+    "82": [
+        {},
+        {}
+    ],
+    "83": [
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "84": [
+        {},
+        {}
+    ],
+    "85": [
+        {},
+        {}
+    ],
+    "86": [
+        {},
+        {}
+    ],
+    "87": [
+        {
+            "conflicting-information-vote": 1
+        },
+        {}
+    ],
+    "88": [
+        {
+            "nagging-sum": 1
+        },
+        {}
+    ],
+    "89": [
+        {},
+        {}
+    ],
+    "90": [
+        {},
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "91": [
+        {},
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "92": [
+        {},
+        {}
+    ],
+    "93": [
+        {},
+        {
+            "bad-defaults-sum": 1
+        }
+    ],
+    "94": [
+        {
+            "positive-vote": 1
+        },
+        {}
+    ],
+    "96": [
+        {
+            "conflicting-information-vote": 1
+        },
+        {
+            "conflicting-information-vote": 1
+        }
+    ],
+    "97": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "98": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "99": [
+        {},
+        {}
+    ]
+}

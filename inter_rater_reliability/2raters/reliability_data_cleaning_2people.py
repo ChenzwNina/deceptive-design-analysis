@@ -60,24 +60,31 @@ def format_data(download_path, data, labels):
                     continue
             total_label[str(index_int)].append(widget_labels)
     print("Label cleaning is finished")
-    clean_out_not_qualified_data(total_label)
+    clean_out_not_qualified_data(download_path, total_label)
     
 
-def clean_out_not_qualified_data(units):
+def clean_out_not_qualified_data(download_path, units):
     not_qualified = {}
     qualified = {}
     for index, value in units.items():
-        if len(value) != 3:
+        if len(value) != 2:
             not_qualified[index] = value
         else:
             qualified[index] = value
-    with open("rater_not_equal_to_3.json", "w") as f:
+    with open(f"{download_path}/rater_not_equal_to_2.json", "w") as f:
                 json.dump(not_qualified, f, indent=4)
     
-    with open("qualified.json", "w") as f:
+    with open(f"{download_path}/qualified.json", "w") as f:
                 json.dump(qualified, f, indent=4)
 
-path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "extract_data", "extracted_data_1.json"))
+round_number = 1
+folder_name = f"round{round_number}/leica-luna"
+if not os.path.isdir(folder_name):
+    os.makedirs(folder_name)
+
+path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "extract_data", f"2raters/{folder_name}/valid_data.json"))
 data  = load_file(path)
-format_data("cleaned_reliability_data.json", data, labels)
+
+download_path = f"{folder_name}"
+format_data(download_path, data, labels)
 
