@@ -4,19 +4,31 @@
         {},
         {}
     ],
+    "165": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "positive-vote": 1
+        },
+        {}
+    ],
     "166": [
         {
-            "false-hierarchy-vote": 1,
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
             "high-demand-vote": 1,
             "low-stock-vote": 1
         },
         {
-            "information-without-context-vote": 1,
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1,
             "high-demand-vote": 1,
             "low-stock-vote": 1
         },
         {
-            "high-demand-vote": 1,
+            "choice-overload-sum": 1,
+            "complex-language-vote": 1,
             "low-stock-vote": 1
         }
     ],
@@ -29,31 +41,24 @@
         {
             "visual-prominence-vote": 1
         },
-        {
-            "visual-prominence-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1
-        }
+        {},
+        {}
     ],
     "169": [
         {
-            "visual-prominence-vote": 1,
-            "limited-time-vote": 1
-        },
-        {
-            "endorsement-vote": 1,
-            "limited-time-vote": 1
+            "visual-prominence-vote": 1
         },
         {
             "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
         }
     ],
     "170": [
         {},
-        {
-            "extra-burden": 1
-        },
+        {},
         {}
     ],
     "171": [
@@ -69,18 +74,20 @@
     "172": [
         {},
         {},
-        {}
+        {
+            "bad-defaults-sum": 1
+        }
     ],
     "173": [
         {
             "information-without-context-vote": 1
         },
         {
-            "hidden-information-sum": 1
+            "information-without-context-vote": 1,
+            "visual-prominence-vote": 1
         },
         {
-            "information-without-context-vote": 1,
-            "positive-vote": 1
+            "positive-vote": 2
         }
     ],
     "174": [
@@ -88,6 +95,7 @@
             "limited-time-vote": 1
         },
         {
+            "visual-prominence-vote": 1,
             "limited-time-vote": 1
         },
         {
@@ -97,26 +105,27 @@
     ],
     "175": [
         {
+            "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
             "nagging-sum": 1,
             "endorsement-vote": 1
         },
         {
+            "conflicting-information-vote": 1,
             "visual-prominence-vote": 1,
-            "endorsement-vote": 1
-        },
-        {
-            "visual-prominence-vote": 1,
-            "endorsement-vote": 1
+            "nagging-sum": 1
         }
     ],
     "176": [
         {
-            "positive-vote": 1
+            "visual-prominence-vote": 1
         },
-        {},
         {
-            "positive-vote": 1
-        }
+            "visual-prominence-vote": 1
+        },
+        {}
     ],
     "177": [
         {
@@ -127,28 +136,42 @@
         {
             "positive-vote": 1,
             "complex-language-vote": 1,
-            "high-demand-vote": 1,
+            "nagging-sum": 1,
             "limited-time-vote": 1
         },
         {
-            "positive-vote": 1,
+            "visual-prominence-vote": 1,
             "complex-language-vote": 1,
             "limited-time-vote": 1
         }
     ],
     "178": [
-        {},
-        {},
         {
             "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "extra-burden": 1,
+            "hidden-information-sum": 1
         }
+    ],
+    "179": [
+        {},
+        {
+            "no-way-back": 1
+        },
+        {}
     ],
     "180": [
         {},
         {
-            "confirmshaming-vote": 1
+            "forced-registration-sum": 1
         },
-        {}
+        {
+            "nagging-sum": 1
+        }
     ],
     "181": [
         {
@@ -156,38 +179,49 @@
             "confirmshaming-vote": 1
         },
         {
+            "positive-vote": 1,
             "confirmshaming-vote": 1
         },
         {
-            "visual-prominence-vote": 1,
+            "extra-burden": 1,
+            "false-hierarchy-vote": 1,
             "positive-vote": 1,
+            "choice-overload-sum": 1,
             "confirmshaming-vote": 1
+        }
+    ],
+    "182": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
         }
     ],
     "183": [
         {
-            "false-hierarchy-vote": 1
-        },
-        {
-            "no-way-back": 1,
-            "visual-prominence-vote": 1
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
         },
         {
             "visual-prominence-vote": 1,
             "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1
         }
     ],
     "184": [
         {
-            "no-way-back": 1,
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
-        {
-            "forced-registration-sum": 1
-        }
+        {}
     ],
     "185": [
         {
@@ -195,30 +229,49 @@
             "hidden-information-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1,
+            "hidden-information-sum": 1
         },
         {
-            "hidden-information-sum": 1,
-            "forced-registration-sum": 1
+            "hidden-information-sum": 1
+        }
+    ],
+    "186": [
+        {
+            "nagging-sum": 1
+        },
+        {},
+        {
+            "conflicting-information-vote": 1,
+            "visual-prominence-vote": 1
         }
     ],
     "187": [
-        {},
-        {},
         {
+            "visual-prominence-vote": 1,
             "positive-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
         }
     ],
     "188": [
-        {},
+        {
+            "positive-vote": 1
+        },
         {},
         {}
     ],
     "189": [
         {
+            "visual-prominence-vote": 1,
             "limited-time-vote": 1
         },
         {
+            "visual-prominence-vote": 1,
             "limited-time-vote": 1
         },
         {
@@ -228,32 +281,32 @@
     ],
     "190": [
         {
-            "positive-vote": 1
-        },
-        {
-            "false-hierarchy-vote": 1,
             "visual-prominence-vote": 1
         },
         {
             "positive-vote": 1
-        }
+        },
+        {}
     ],
     "191": [
         {},
         {},
-        {}
+        {
+            "positive-vote": 1
+        }
     ],
     "192": [
         {
             "visual-prominence-vote": 1,
-            "limited-time-vote": 1
-        },
-        {
-            "countdown-timer-vote": 1,
-            "limited-time-vote": 1
+            "countdown-timer-vote": 1
         },
         {
             "visual-prominence-vote": 1,
+            "countdown-timer-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
             "countdown-timer-vote": 1
         }
     ],
@@ -265,11 +318,11 @@
     "194": [
         {
             "visual-prominence-vote": 1,
-            "limited-time-vote": 1
+            "countdown-timer-vote": 1
         },
         {
-            "countdown-timer-vote": 1,
-            "limited-time-vote": 1
+            "visual-prominence-vote": 1,
+            "countdown-timer-vote": 1
         },
         {
             "visual-prominence-vote": 1,
@@ -278,29 +331,33 @@
     ],
     "195": [
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
+        {}
+    ],
+    "196": [
         {
-            "forced-registration-sum": 1
-        }
+            "no-way-back": 1,
+            "hidden-information-sum": 1
+        },
+        {},
+        {}
     ],
     "197": [
         {
             "visual-prominence-vote": 1,
-            "limited-time-vote": 1
-        },
-        {
-            "no-way-back": 1,
-            "extra-burden": 1,
-            "countdown-timer-vote": 1,
-            "limited-time-vote": 1
+            "countdown-timer-vote": 1
         },
         {
             "visual-prominence-vote": 1,
             "countdown-timer-vote": 1
+        },
+        {
+            "visual-prominence-vote": -1,
+            "countdown-timer-vote": 2
         }
     ],
     "198": [
@@ -315,15 +372,17 @@
     ],
     "200": [
         {
+            "visual-prominence-vote": 1,
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
             "hidden-information-sum": 1
         },
         {
-            "forced-registration-sum": 1,
-            "confirmshaming-vote": 1
-        },
-        {
-            "hidden-information-sum": 1,
-            "forced-registration-sum": 1
+            "visual-prominence-vote": 2,
+            "limited-time-vote": 1
         }
     ],
     "201": [
@@ -334,27 +393,24 @@
     "202": [
         {
             "information-without-context-vote": 1,
-            "positive-vote": 1
-        },
-        {
-            "positive-vote": 1,
-            "nagging-sum": 1,
-            "endorsement-vote": 1
-        },
-        {
-            "positive-vote": 1
-        }
-    ],
-    "203": [
-        {
+            "visual-prominence-vote": 1,
             "hidden-information-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "information-without-context-vote": 1,
+            "visual-prominence-vote": 1
+        },
+        {}
+    ],
+    "203": [
+        {
+            "no-way-back": 1,
+            "hidden-information-sum": 1
         },
         {
-            "forced-registration-sum": 1
-        }
+            "no-way-back": 1
+        },
+        {}
     ],
     "204": [
         {},
@@ -363,45 +419,41 @@
     ],
     "205": [
         {
-            "visual-prominence-vote": 1,
-            "positive-vote": 1
+            "visual-prominence-vote": 1
         },
         {
-            "disguised-ad-vote": 1,
-            "visual-prominence-vote": 1,
-            "positive-vote": 1
+            "visual-prominence-vote": 1
         },
-        {
-            "positive-vote": 1
-        }
+        {}
     ],
     "206": [
         {},
-        {},
+        {
+            "conflicting-information-vote": 1
+        },
         {
             "conflicting-information-vote": 1
         }
     ],
     "207": [
         {
-            "positive-vote": 1,
-            "high-demand-vote": 1
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
         },
         {
-            "disguised-ad-vote": 1,
-            "high-demand-vote": 1,
-            "endorsement-vote": 1
+            "hidden-information-sum": 1,
+            "nagging-sum": 1
         },
-        {
-            "hidden-information-sum": 1
-        }
+        {}
     ],
     "208": [
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1,
+            "hidden-information-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1,
+            "hidden-information-sum": 1
         },
         {
             "hidden-information-sum": 1
@@ -417,41 +469,36 @@
             "information-without-context-vote": 1
         },
         {
-            "endorsement-vote": 1
-        },
-        {
             "information-without-context-vote": 1
-        }
+        },
+        {}
     ],
     "211": [
         {
+            "hidden-information-sum": 1,
             "endorsement-vote": 1
         },
-        {},
-        {}
+        {
+            "endorsement-vote": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
     ],
     "212": [
         {
-            "positive-vote": 1,
-            "limited-time-vote": 1
-        },
-        {
-            "positive-vote": 1,
-            "parasocial-vote": 1,
-            "limited-time-vote": 1
+            "visual-prominence-vote": 1
         },
         {
             "visual-prominence-vote": 1
-        }
+        },
+        {}
     ],
     "213": [
         {
             "no-way-back": 1
         },
-        {
-            "dead-end-vote": 1,
-            "extra-burden": 1
-        },
+        {},
         {}
     ],
     "214": [
@@ -466,29 +513,26 @@
     "215": [
         {
             "conflicting-information-vote": 1,
-            "positive-vote": 1
+            "visual-prominence-vote": 1
         },
         {},
-        {}
+        {
+            "conflicting-information-vote": 1
+        }
     ],
     "216": [
         {},
         {},
-        {}
+        {
+            "bad-defaults-sum": 1
+        }
     ],
     "217": [
         {
-            "visual-prominence-vote": 1,
             "positive-vote": 1
         },
-        {
-            "positive-vote": 1,
-            "hidden-information-sum": 1,
-            "confirmshaming-vote": 1
-        },
-        {
-            "positive-vote": 1
-        }
+        {},
+        {}
     ],
     "218": [
         {},
@@ -497,12 +541,15 @@
     ],
     "219": [
         {
+            "visual-prominence-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {
             "visual-prominence-vote": 1
         },
         {
-            "positive-vote": 1
-        },
-        {}
+            "visual-prominence-vote": 1
+        }
     ],
     "220": [
         {},
@@ -511,107 +558,109 @@
     ],
     "221": [
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1,
+            "hidden-information-sum": 1
         },
         {
-            "forced-registration-sum": 1
-        },
-        {
-            "forced-registration-sum": 1
-        }
-    ],
-    "222": [
-        {
-            "positive-vote": 1,
-            "hidden-information-sum": 1,
-            "forced-registration-sum": 1
-        },
-        {
-            "information-without-context-vote": 1,
-            "visual-prominence-vote": 1,
-            "positive-vote": 1,
-            "hidden-information-sum": 1,
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
         {}
     ],
-    "224": [
+    "222": [
         {
-            "information-without-context-vote": 1
-        },
-        {
-            "disguised-ad-vote": 1,
-            "false-hierarchy-vote": 1,
+            "no-way-back": 1,
             "positive-vote": 1,
             "hidden-information-sum": 1
         },
         {
-            "positive-vote": 1
-        }
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "223": [
+        {},
+        {},
+        {}
+    ],
+    "224": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {}
     ],
     "225": [
-        {
-            "positive-vote": 1
-        },
-        {
-            "confirmshaming-vote": 1
-        },
+        {},
+        {},
         {}
     ],
     "226": [
         {
-            "hidden-information-sum": 1,
-            "forced-registration-sum": 1
+            "no-way-back": 1,
+            "hidden-information-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
-        {
-            "forced-registration-sum": 1
-        }
+        {}
     ],
     "227": [
         {
-            "hidden-information-sum": 1,
-            "forced-registration-sum": 1
+            "no-way-back": 1,
+            "hidden-information-sum": 1
         },
         {
-            "dead-end-vote": 1,
             "no-way-back": 1,
             "hidden-information-sum": 1,
             "forced-registration-sum": 1
         },
         {
-            "hidden-information-sum": 1,
-            "forced-registration-sum": 1
+            "hidden-information-sum": 1
         }
     ],
     "228": [
         {
-            "visual-prominence-vote": 1,
-            "high-demand-vote": 1
-        },
-        {
-            "activity-messages-vote": 1
+            "conflicting-information-vote": 1,
+            "visual-prominence-vote": 1
         },
         {
             "conflicting-information-vote": 1,
-            "visual-prominence-vote": 1
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "pressured-selling-vote": 1,
+            "limited-time-vote": 1
         }
     ],
     "229": [
         {
-            "false-hierarchy-vote": 1,
-            "high-demand-vote": 1,
-            "limited-time-vote": 1
-        },
-        {
             "visual-prominence-vote": 1,
             "limited-time-vote": 1
         },
         {
             "visual-prominence-vote": 1,
+            "nagging-sum": 1,
             "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "230": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
         }
     ],
     "231": [
@@ -628,16 +677,16 @@
             "visual-prominence-vote": 1,
             "limited-time-vote": 1
         },
-        {},
         {
+            "no-way-back": 1,
+            "visual-prominence-vote": 1,
             "limited-time-vote": 1
-        }
+        },
+        {}
     ],
     "233": [
         {},
-        {
-            "extra-burden": 1
-        },
+        {},
         {}
     ],
     "234": [
@@ -646,10 +695,10 @@
             "endorsement-vote": 1
         },
         {
-            "information-without-context-vote": 1,
             "hidden-information-sum": 1
         },
         {
+            "conflicting-information-vote": 1,
             "hidden-information-sum": 1
         }
     ],
@@ -659,11 +708,9 @@
             "forced-registration-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
-        {
-            "forced-registration-sum": 1
-        }
+        {}
     ],
     "237": [
         {
@@ -671,11 +718,11 @@
             "forced-registration-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1,
+            "hidden-information-sum": 1
         },
         {
-            "hidden-information-sum": 1,
-            "forced-registration-sum": 1
+            "hidden-information-sum": 1
         }
     ],
     "239": [
@@ -705,9 +752,7 @@
             "extra-burden": 1,
             "positive-vote": 1
         },
-        {
-            "confirmshaming-vote": 1
-        },
+        {},
         {}
     ],
     "243": [
@@ -721,25 +766,21 @@
             "parasocial-vote": 1
         },
         {
-            "parasocial-vote": 1,
-            "confirmshaming-vote": 1
+            "visual-prominence-vote": 1
         },
         {
+            "conflicting-information-vote": 1,
             "visual-prominence-vote": 1
         }
     ],
     "245": [
         {},
-        {
-            "dead-end-vote": 1
-        },
+        {},
         {}
     ],
     "246": [
         {},
-        {
-            "dead-end-vote": 1
-        },
+        {},
         {}
     ],
     "247": [
@@ -747,8 +788,7 @@
             "no-way-back": 1
         },
         {
-            "no-way-back": 1,
-            "confirmshaming-vote": 1
+            "no-way-back": 1
         },
         {}
     ],
@@ -776,7 +816,9 @@
         {
             "no-way-back": 1
         },
-        {}
+        {
+            "positive-vote": 1
+        }
     ],
     "251": [
         {
@@ -784,12 +826,11 @@
             "positive-vote": 1
         },
         {
-            "bundling-vote": 1,
-            "confirmshaming-vote": 1
-        },
-        {
             "visual-prominence-vote": 1,
             "hidden-information-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1
         }
     ],
     "252": [
@@ -797,26 +838,24 @@
             "forced-registration-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
-        {
-            "forced-registration-sum": 1
-        }
+        {}
     ],
     "253": [
         {
             "extra-burden": 1,
             "positive-vote": 1
         },
-        {
-            "confirmshaming-vote": 1
-        },
+        {},
         {}
     ],
     "254": [
         {},
         {},
-        {}
+        {
+            "bad-defaults-sum": 1
+        }
     ],
     "255": [
         {},
@@ -830,13 +869,19 @@
         },
         {
             "visual-prominence-vote": 1,
-            "positive-vote": 1,
             "limited-time-vote": 1
         },
         {
             "visual-prominence-vote": 1,
             "limited-time-vote": 1
         }
+    ],
+    "257": [
+        {},
+        {
+            "bad-defaults-sum": 1
+        },
+        {}
     ],
     "258": [
         {
@@ -845,13 +890,18 @@
         },
         {
             "visual-prominence-vote": 1,
-            "pressured-selling-vote": 1,
-            "limited-time-vote": 1
+            "nagging-sum": 1,
+            "countdown-timer-vote": 1
         },
         {
             "visual-prominence-vote": 1,
-            "countdown-timer-vote": 1
+            "limited-time-vote": 1
         }
+    ],
+    "259": [
+        {},
+        {},
+        {}
     ],
     "260": [
         {
@@ -859,7 +909,6 @@
             "confirmshaming-vote": 1
         },
         {
-            "positive-vote": 1,
             "confirmshaming-vote": 1
         },
         {
@@ -878,7 +927,7 @@
             "forced-registration-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
         {}
     ],
@@ -886,9 +935,7 @@
         {
             "positive-vote": 1
         },
-        {
-            "hidden-information-sum": 1
-        },
+        {},
         {}
     ],
     "264": [
@@ -902,12 +949,11 @@
             "high-demand-vote": 1
         },
         {
-            "positive-vote": 1,
-            "hidden-information-sum": 1,
             "high-demand-vote": 1
         },
         {
-            "high-demand-vote": 1
+            "disguised-ad-vote": 1,
+            "visual-prominence-vote": 2
         }
     ],
     "266": [
@@ -930,11 +976,7 @@
             "false-hierarchy-vote": 1,
             "hidden-information-sum": 1
         },
-        {
-            "disguised-ad-vote": 1,
-            "visual-prominence-vote": 1,
-            "hidden-information-sum": 1
-        },
+        {},
         {}
     ],
     "269": [
@@ -952,9 +994,7 @@
     ],
     "271": [
         {},
-        {
-            "extra-burden": 1
-        },
+        {},
         {}
     ],
     "272": [
@@ -965,10 +1005,11 @@
         },
         {
             "visual-prominence-vote": 1,
-            "limited-time-vote": 1,
-            "confirmshaming-vote": 1
+            "nagging-sum": 1,
+            "limited-time-vote": 1
         },
         {
+            "visual-prominence-vote": 1,
             "limited-time-vote": 1
         }
     ],
@@ -978,20 +1019,15 @@
             "confirmshaming-vote": 1
         },
         {
-            "positive-vote": 1,
             "confirmshaming-vote": 1
         },
-        {
-            "confirmshaming-vote": 1
-        }
+        {}
     ],
     "274": [
         {
             "visual-prominence-vote": 1
         },
-        {
-            "extra-burden": 1
-        },
+        {},
         {
             "visual-prominence-vote": 1
         }
@@ -1001,25 +1037,17 @@
             "forced-registration-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
-        {
-            "forced-registration-sum": 1
-        }
+        {}
     ],
     "276": [
         {
             "disguised-ad-vote": 1,
             "positive-vote": 1
         },
-        {
-            "disguised-ad-vote": 1,
-            "visual-prominence-vote": 1,
-            "positive-vote": 1
-        },
-        {
-            "positive-vote": 1
-        }
+        {},
+        {}
     ],
     "277": [
         {
@@ -1027,20 +1055,18 @@
             "high-demand-vote": 1
         },
         {
-            "positive-vote": 1,
+            "visual-prominence-vote": 1,
             "high-demand-vote": 1
         },
         {
-            "high-demand-vote": 1
+            "positive-vote": 1
         }
     ],
     "278": [
         {
             "no-way-back": 1
         },
-        {
-            "extra-burden": 1
-        },
+        {},
         {}
     ],
     "279": [
@@ -1054,11 +1080,9 @@
             "forced-registration-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1
         },
-        {
-            "forced-registration-sum": 1
-        }
+        {}
     ],
     "281": [
         {
@@ -1077,7 +1101,7 @@
             "visual-prominence-vote": 1
         },
         {
-            "visual-prominence-vote": 1
+            "pressured-selling-vote": 1
         }
     ],
     "283": [
@@ -1096,17 +1120,614 @@
             "forced-registration-sum": 1
         },
         {
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "286": [
+        {},
+        {},
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "287": [
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "confirmshaming-vote": 1
+        },
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        }
+    ],
+    "288": [
+        {},
+        {},
+        {}
+    ],
+    "289": [
+        {
+            "no-way-back": 1
+        },
+        {},
+        {}
+    ],
+    "290": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "nagging-sum": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "291": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "countdown-timer-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "nagging-sum": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "292": [
+        {
+            "disguised-ad-vote": 1,
+            "positive-vote": 1,
+            "high-demand-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "293": [
+        {},
+        {},
+        {}
+    ],
+    "294": [
+        {
+            "hidden-information-sum": 1,
             "forced-registration-sum": 1
         },
         {
-            "forced-registration-sum": 1
+            "no-way-back": 1,
+            "hidden-information-sum": 1,
+            "nagging-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
         }
     ],
-    "286": [
+    "295": [
+        {
+            "extra-burden": 1,
+            "positive-vote": 1
+        },
+        {},
+        {}
+    ],
+    "296": [
+        {},
+        {},
+        {}
+    ],
+    "297": [
+        {
+            "hidden-information-sum": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "no-way-back": 1,
+            "hidden-information-sum": 1,
+            "nagging-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "298": [
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1,
+            "parasocial-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1,
+            "endorsement-vote": 1
+        },
+        {}
+    ],
+    "299": [
+        {
+            "bad-defaults-sum": 1,
+            "high-demand-vote": 1
+        },
+        {},
+        {}
+    ],
+    "300": [
+        {
+            "no-way-back": 1
+        },
+        {},
+        {}
+    ],
+    "301": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "nagging-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "hidden-information-sum": 1
+        }
+    ],
+    "302": [
+        {},
+        {},
+        {}
+    ],
+    "303": [
+        {
+            "disguised-ad-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {},
+        {}
+    ],
+    "304": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "305": [
+        {},
+        {},
+        {}
+    ],
+    "306": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "confirmshaming-vote": 1
+        }
+    ],
+    "307": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "308": [
+        {
+            "no-way-back": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {
+            "dead-end-vote": 1
+        }
+    ],
+    "309": [
+        {},
+        {},
+        {}
+    ],
+    "310": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        },
+        {}
+    ],
+    "311": [
+        {
+            "endorsement-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1,
+            "endorsement-vote": 1
+        },
+        {}
+    ],
+    "312": [
+        {
+            "bad-defaults-sum": 1,
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "no-way-back": 1,
+            "bad-defaults-sum": 1,
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "bad-defaults-sum": 1,
+            "hidden-information-sum": 1
+        }
+    ],
+    "313": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "no-way-back": 1,
+            "visual-prominence-vote": 1,
+            "forced-registration-sum": 1
+        },
+        {}
+    ],
+    "314": [
+        {
+            "disguised-ad-vote": 1,
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "information-without-context-vote": 1,
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {}
+    ],
+    "315": [
+        {
+            "positive-vote": 1,
+            "hidden-information-sum": 1
+        },
+        {},
+        {}
+    ],
+    "316": [
+        {
+            "extra-burden": 1,
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {}
+    ],
+    "317": [
+        {
+            "no-way-back": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {}
+    ],
+    "318": [
+        {
+            "visual-prominence-vote": 1,
+            "high-demand-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "319": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "no-way-back": 1,
+            "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "320": [
         {},
         {
             "visual-prominence-vote": 1
         },
         {}
+    ],
+    "321": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "no-way-back": 1,
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "322": [
+        {},
+        {},
+        {}
+    ],
+    "323": [
+        {
+            "positive-vote": 1,
+            "confirmshaming-vote": 1
+        },
+        {
+            "confirmshaming-vote": 1
+        },
+        {}
+    ],
+    "324": [
+        {},
+        {},
+        {}
+    ],
+    "325": [
+        {
+            "visual-prominence-vote": 1,
+            "cuteness-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "no-way-back": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "326": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {},
+        {}
+    ],
+    "327": [
+        {
+            "positive-vote": 1
+        },
+        {},
+        {}
+    ],
+    "328": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "no-way-back": 1,
+            "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "329": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "information-without-context-vote": 1
+        },
+        {}
+    ],
+    "330": [
+        {
+            "visual-prominence-vote": 1
+        },
+        {
+            "conflicting-information-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "331": [
+        {},
+        {},
+        {}
+    ],
+    "332": [
+        {},
+        {},
+        {}
+    ],
+    "333": [
+        {
+            "disguised-ad-vote": 1,
+            "visual-prominence-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "choice-overload-sum": 1
+        }
+    ],
+    "334": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {},
+        {}
+    ],
+    "335": [
+        {
+            "visual-prominence-vote": 1,
+            "high-demand-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "limited-time-vote": 1
+        }
+    ],
+    "336": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "337": [
+        {
+            "visual-prominence-vote": 1,
+            "positive-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1
+        },
+        {
+            "visual-prominence-vote": 1
+        }
+    ],
+    "338": [
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        },
+        {
+            "conflicting-information-vote": 1,
+            "hidden-information-sum": 1
+        }
+    ],
+    "339": [
+        {},
+        {},
+        {}
+    ],
+    "340": [
+        {
+            "no-way-back": 1
+        },
+        {},
+        {}
+    ],
+    "341": [
+        {
+            "visual-prominence-vote": 1,
+            "endorsement-vote": 1,
+            "parasocial-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "nagging-sum": 1,
+            "endorsement-vote": 1
+        },
+        {
+            "visual-prominence-vote": 1,
+            "hidden-information-sum": 1
+        }
+    ],
+    "342": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1,
+            "nagging-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
+    ],
+    "343": [
+        {
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "no-way-back": 1,
+            "hidden-information-sum": 1,
+            "forced-registration-sum": 1
+        },
+        {
+            "hidden-information-sum": 1
+        }
     ]
 }
