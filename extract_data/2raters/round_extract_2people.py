@@ -118,18 +118,18 @@ def save_to_json(folder_name, selected_list, error_list, double_check_dict):
         json.dump(double_check_dict, f2, indent=4)
     print("Data saved to rechecked_data.json")
 
-path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "download_data_cloudflare", "kv_pairs_before.json"))
+path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", "download_data_cloudflare", "kv_pairs.json"))
 with open(path) as f:
     data = json.load(f)
 
 
 # Extract data range
-start_index = 14
-end_index = 163
-rater_name = ["Leica", "luna"]
-round_number = 1
+start_index = 524
+end_index = 696
+rater_name = ["luna", "Hanyu"]
+round_number = 3
 
-folder_name = f"round{round_number}/leica-luna"
+folder_name = f"round{round_number}/hanyu-luna"
 if not os.path.isdir(folder_name):
     os.makedirs(folder_name)
     

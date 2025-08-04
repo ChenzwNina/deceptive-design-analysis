@@ -105,7 +105,7 @@ def alpha(distance_fn, encoder):
 
 # ---------------------------------------------------------------------
 # 2. load data ---------------------------------------------------------
-folder_name = "round1/luna-nina"
+folder_name = "round3/hanyu-luna"
 with open(f"{folder_name}/qualified.json", encoding="utf-8") as fh:
     units = json.load(fh)          # dict: unit_id -> list of coder dicts
 
