@@ -12,13 +12,13 @@
                 ]
             },
             {
-                "low-level": []
+                "low-level": {}
             },
             {
-                "meso-level": []
+                "meso-level": {}
             },
             {
-                "high-level": []
+                "high-level": {}
             }
         ],
         "labeler": [
@@ -40,22 +40,25 @@
                 ]
             },
             {
-                "low-level": [
-                    "visual prominence",
-                    "confirmshaming"
-                ]
+                "low-level": {
+                    "positive-vote": 2,
+                    "confirmshaming-vote": 3,
+                    "visual-prominence-vote": 2
+                }
             },
             {
-                "meso-level": [
-                    "manipulating choice architecture",
-                    "personalization"
-                ]
+                "meso-level": {
+                    "emotional-sum": 2,
+                    "personalization-sum": 3,
+                    "manipulating-choice-architecture-sum": 2,
+                    "choice-overload-sum": 1
+                }
             },
             {
-                "high-level": [
-                    "interface interference",
-                    "social engineering"
-                ]
+                "high-level": {
+                    "interface-interference-sum": 3,
+                    "social-engineering-sum": 3
+                }
             }
         ],
         "labeler": [
@@ -77,13 +80,53 @@
                 ]
             },
             {
-                "low-level": []
+                "low-level": {
+                    "no-way-back": 1
+                }
             },
             {
-                "meso-level": []
+                "meso-level": {
+                    "roach-motel-sum": 1
+                }
             },
             {
-                "high-level": []
+                "high-level": {
+                    "obstruction-sum": 1
+                }
+            }
+        ],
+        "labeler": [
+            "Leica",
+            "Nina",
+            "luna"
+        ]
+    },
+    "103": {
+        "component": 8,
+        "model": "deepseek-v3",
+        "condition": "User-Centered-Design",
+        "pattern": [
+            {
+                "dark pattern": [
+                    true,
+                    false,
+                    false
+                ]
+            },
+            {
+                "low-level": {
+                    "visual-prominence-vote": 1
+                }
+            },
+            {
+                "meso-level": {
+                    "manipulating-choice-architecture-sum": 1
+                }
+            },
+            {
+                "high-level": {
+                    "interface-interference-sum": 1
+                }
             }
         ],
         "labeler": [
@@ -105,13 +148,13 @@
                 ]
             },
             {
-                "low-level": []
+                "low-level": {}
             },
             {
-                "meso-level": []
+                "meso-level": {}
             },
             {
-                "high-level": []
+                "high-level": {}
             }
         ],
         "labeler": [
@@ -133,13 +176,17 @@
                 ]
             },
             {
-                "low-level": []
+                "low-level": {}
             },
             {
-                "meso-level": []
+                "meso-level": {
+                    "(de)contextualizing-cues-sum": 1
+                }
             },
             {
-                "high-level": []
+                "high-level": {
+                    "sneaking-sum": 1
+                }
             }
         ],
         "labeler": [
@@ -156,30 +203,33 @@
             {
                 "dark pattern": [
                     true,
-                    true,
                     true
                 ]
             },
             {
-                "low-level": [
-                    "visual prominence"
-                ]
+                "low-level": {
+                    "visual-prominence-vote": 2,
+                    "positive-vote": 1,
+                    "limited-time-vote": 2
+                }
             },
             {
-                "meso-level": [
-                    "manipulating choice architecture"
-                ]
+                "meso-level": {
+                    "manipulating-choice-architecture-sum": 2,
+                    "emotional-sum": 1,
+                    "urgency-sum": 2
+                }
             },
             {
-                "high-level": [
-                    "interface interference"
-                ]
+                "high-level": {
+                    "interface-interference-sum": 2,
+                    "social-engineering-sum": 2
+                }
             }
         ],
         "labeler": [
             "Leica",
-            "Nina",
-            "luna"
+            "Nina"
         ]
     }
 }

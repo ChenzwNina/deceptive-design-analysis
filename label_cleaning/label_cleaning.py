@@ -192,6 +192,13 @@ class DataAnalyzer():
         dark_pattern_or_no_list = [True]
 
         return dark_pattern_or_no_list, low_level_type_dict, meso_level_type_dict, high_level_type_dict
-    
-path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "extract_data", "round1/valid_data.json"))
-analyzer = DataAnalyzer(path, "cleaned_label.json", "no_label_widget.json")
+
+round_number = 2
+path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "extract_data", f"3raters/round{round_number}/valid_data.json"))
+
+folder_name = f"round{round_number}"
+
+if not os.path.isdir(folder_name):
+    os.makedirs(folder_name)
+
+analyzer = DataAnalyzer(path, f"{folder_name}/cleaned_label.json", f"{folder_name}/no_label_widget.json")

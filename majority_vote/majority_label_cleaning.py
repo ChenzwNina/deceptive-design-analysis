@@ -96,5 +96,12 @@ class MajorityAnalyzer():
         print(f"{len(no_clear_majority_dict)} widgets has not passed majority votes")
         return majority_dict, no_clear_majority_dict
 
-path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "label_cleaning", "cleaned_label.json"))
-analyzer = MajorityAnalyzer(path, "majority_label.json", "no_clear_majority.json")
+round_number = 2
+path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "label_cleaning", f"round{round_number}/cleaned_label.json"))
+
+folder_name = f"round{round_number}"
+
+if not os.path.isdir(folder_name):
+    os.makedirs(folder_name)
+
+analyzer = MajorityAnalyzer(path, f"{folder_name}/majority_label.json", f"{folder_name}/no_clear_majority.json")
