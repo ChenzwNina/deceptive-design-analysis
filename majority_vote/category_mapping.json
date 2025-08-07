@@ -181,7 +181,7 @@
     "meso-level":"scarcity and popularity claims",
     "high-level": "social engineering"
   },
-  "low-stock-votes": {
+  "low-stock-vote": {
     "name": "low stock",
     "meso-level":"social proof",
     "high-level": "social engineering"

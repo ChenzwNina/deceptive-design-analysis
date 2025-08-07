@@ -50,7 +50,7 @@ class DataAnalyzer():
         print("Total number of widgets", len(self.data))
         existing_index = {}
         problematic_index = {}
-        for item in self.data[0:20]:
+        for item in self.data:
 
             widget_label = {}
 
@@ -193,7 +193,7 @@ class DataAnalyzer():
 
         return dark_pattern_or_no_list, low_level_type_dict, meso_level_type_dict, high_level_type_dict
 
-round_number = 2
+round_number = 1
 path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "extract_data", f"3raters/round{round_number}/valid_data.json"))
 
 folder_name = f"round{round_number}"
