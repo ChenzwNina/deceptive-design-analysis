@@ -15,6 +15,15 @@ def load_json_data(file_path=FILE_PATH):
     # print(data.head())
     return data.T
 
+def dark_level_lst(lst):
+    if 'low-level' not in lst[1] or 'meso-level' not in lst[2] or 'high-level' not in lst[3]:
+        raise ValueError("Data structure has changed")
+    return pd.Series({
+        'low_level': lst[1]['low-level'],
+        'meso_level': lst[2]['meso-level'],
+        'high_level': lst[3]['high-level']
+    })
+
 # 2.1 Compare the percentage and number of components labeled with dark patterns across the four models ("grok-3-beta", "gpt-4.1", "deepseek-v3", "gemini-2.5-pro”).
 def compare_percentage_and_number(file_path=FILE_PATH):
     """
@@ -59,15 +68,6 @@ def compare_unique_type_number(file_path=FILE_PATH):
             levels as keys and number of unique deceptive design types as values
     """
     data = load_json_data(file_path)
-    def dark_level_lst(lst):
-        if 'low-level' not in lst[1] or 'meso-level' not in lst[2] or 'high-level' not in lst[3]:
-            raise ValueError("Data structure has changed")
-        return pd.Series({
-            'low_level': lst[1]['low-level'],
-            'meso_level': lst[2]['meso-level'],
-            'high_level': lst[3]['high-level']
-        })
-
     data[['low_level', 'meso_level', 'high_level']] = data['pattern'].apply(dark_level_lst)
 
     results = {}
@@ -90,8 +90,38 @@ def compare_unique_type_number(file_path=FILE_PATH):
 
 # 2.3 Compare the average number of dark pattern types per component in each model.
 # Count the total number of dark patterns, including both low-level patterns and meso-level patterns that lack associated low-level categories.
+MESO_NO_LOW = ['Bad Defaults', 'Trick Questions', 'Choice Overload', 'Hidden Information', 'Feedforward Ambiguity', \
+                                'Nagging', 'Forced Continuity', 'Forced Registration']
+MESO_NO_LOW = [x.lower() for x in MESO_NO_LOW]
+def compare_per_component(file_path=FILE_PATH):
+    data = load_json_data(file_path)
+    data[['low_level', 'meso_level', 'high_level']] = data['pattern'].apply(dark_level_lst)
+
+    def count_meso_no_low(lst):
+        i = 0
+        for t in lst:
+            if t.lower() in MESO_NO_LOW:
+                i += 1
+        return i
+
+    results = {}
+    for model in MODELS:
+        if model not in data['model'].unique():
+            print(f"Model {model} not found in the data.")
+            continue
+        model_data = data[data['model'] == model]
+
+        if model not in data['model'].unique():
+            print(f"Model {model} not found in the data.")
+            continue
+        model_data = data[data['model'] == model]
+        x = model_data['low_level'].apply(lambda x: len(x)) + model_data['meso_level'].apply(count_meso_no_low)
+        results[model] = x.mean().item()
+    print(results)
+    return results
 
 # 2.4 Assess whether the differences across models are statistically significant.
 
 compare_percentage_and_number()
 compare_unique_type_number()
+compare_per_component()
