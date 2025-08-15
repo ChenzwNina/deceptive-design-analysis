@@ -1,0 +1,1017 @@
+{
+    "100": [
+        {},
+        {}
+    ],
+    "101": [
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 3,
+            "social-engineering": 1
+        }
+    ],
+    "102": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "103": [
+        {
+            "interface-interference": 1
+        },
+        {}
+    ],
+    "104": [
+        {},
+        {}
+    ],
+    "105": [
+        {},
+        {
+            "sneaking": -1
+        }
+    ],
+    "106": [
+        {
+            "interface-interference": 2,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "107": [
+        {
+            "obstruction": 1,
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "108": [
+        {},
+        {}
+    ],
+    "109": [
+        {
+            "interface-interference": 2,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "110": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "111": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "112": [
+        {},
+        {}
+    ],
+    "113": [
+        {
+            "interface-interference": 1
+        },
+        {}
+    ],
+    "114": [
+        {
+            "social-engineering": 1
+        },
+        {
+            "social-engineering": 1
+        }
+    ],
+    "115": [
+        {},
+        {}
+    ],
+    "116": [
+        {
+            "obstruction": 2
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "117": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1,
+            "forced-action": 1
+        }
+    ],
+    "118": [
+        {},
+        {
+            "obstruction": 1,
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "119": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "120": [
+        {
+            "interface-interference": 2,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "121": [
+        {
+            "sneaking": 1
+        },
+        {
+            "sneaking": 1
+        }
+    ],
+    "122": [
+        {
+            "interface-interference": 1
+        },
+        {}
+    ],
+    "123": [
+        {
+            "interface-interference": 1,
+            "forced-action": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "124": [
+        {},
+        {}
+    ],
+    "125": [
+        {},
+        {}
+    ],
+    "126": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "127": [
+        {
+            "interface-interference": 2,
+            "forced-action": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 2,
+            "social-engineering": 2
+        }
+    ],
+    "128": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "sneaking": 1,
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "129": [
+        {},
+        {}
+    ],
+    "130": [
+        {},
+        {
+            "obstruction": 1,
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "131": [
+        {},
+        {}
+    ],
+    "132": [
+        {},
+        {}
+    ],
+    "133": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "134": [
+        {
+            "interface-interference": 2
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "135": [
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        },
+        {
+            "social-engineering": 1
+        }
+    ],
+    "136": [
+        {
+            "interface-interference": 2,
+            "forced-action": 1
+        },
+        {
+            "forced-action": 1
+        }
+    ],
+    "137": [
+        {
+            "interface-interference": 2
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1,
+            "social-engineering": 1
+        }
+    ],
+    "138": [
+        {
+            "interface-interference": 2
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "139": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "140": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "141": [
+        {
+            "interface-interference": 2,
+            "forced-action": 1,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "142": [
+        {},
+        {}
+    ],
+    "143": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "144": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "145": [
+        {},
+        {}
+    ],
+    "146": [
+        {
+            "interface-interference": 2
+        },
+        {
+            "obstruction": 1,
+            "forced-action": 1
+        }
+    ],
+    "147": [
+        {
+            "interface-interference": 2
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "148": [
+        {
+            "interface-interference": 2,
+            "forced-action": 1
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 2,
+            "forced-action": 1
+        }
+    ],
+    "149": [
+        {
+            "interface-interference": 1
+        },
+        {}
+    ],
+    "14": [
+        {},
+        {}
+    ],
+    "150": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "151": [
+        {
+            "interface-interference": 2
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "152": [
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        },
+        {
+            "social-engineering": 1
+        }
+    ],
+    "153": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "154": [
+        {},
+        {}
+    ],
+    "155": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "156": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "157": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "158": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "159": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 1
+        }
+    ],
+    "15": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "160": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "161": [
+        {
+            "forced-action": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1,
+            "social-engineering": 1
+        }
+    ],
+    "162": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "163": [
+        {},
+        {}
+    ],
+    "16": [
+        {},
+        {}
+    ],
+    "17": [
+        {
+            "interface-interference": 2
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "18": [
+        {},
+        {}
+    ],
+    "19": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "20": [
+        {
+            "interface-interference": 1
+        },
+        {}
+    ],
+    "21": [
+        {},
+        {}
+    ],
+    "22": [
+        {
+            "obstruction": 1
+        },
+        {}
+    ],
+    "23": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "24": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "25": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "26": [
+        {},
+        {}
+    ],
+    "27": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "28": [
+        {},
+        {}
+    ],
+    "29": [
+        {
+            "forced-action": 1
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "30": [
+        {},
+        {}
+    ],
+    "31": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "32": [
+        {
+            "interface-interference": 1
+        },
+        {}
+    ],
+    "33": [
+        {
+            "forced-action": 1
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "34": [
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "35": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "36": [
+        {},
+        {}
+    ],
+    "37": [
+        {
+            "interface-interference": 2,
+            "forced-action": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "38": [
+        {},
+        {}
+    ],
+    "39": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "40": [
+        {},
+        {
+            "obstruction": 1,
+            "forced-action": 1
+        }
+    ],
+    "41": [
+        {},
+        {}
+    ],
+    "42": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "obstruction": 2,
+            "forced-action": 1
+        }
+    ],
+    "43": [
+        {},
+        {}
+    ],
+    "44": [
+        {},
+        {}
+    ],
+    "45": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "46": [
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        },
+        {
+            "social-engineering": 1
+        }
+    ],
+    "47": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "48": [
+        {},
+        {}
+    ],
+    "49": [
+        {},
+        {}
+    ],
+    "50": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "51": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "52": [
+        {
+            "obstruction": 1,
+            "interface-interference": 1
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "53": [
+        {
+            "interface-interference": 2,
+            "forced-action": 1
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "54": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "56": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "57": [
+        {},
+        {}
+    ],
+    "58": [
+        {
+            "obstruction": 1
+        },
+        {
+            "obstruction": 1
+        }
+    ],
+    "59": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "60": [
+        {
+            "obstruction": 1,
+            "interface-interference": 1
+        },
+        {
+            "obstruction": 2,
+            "forced-action": 1
+        }
+    ],
+    "61": [
+        {},
+        {}
+    ],
+    "62": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "63": [
+        {
+            "interface-interference": 2,
+            "social-engineering": 1
+        },
+        {}
+    ],
+    "64": [
+        {},
+        {}
+    ],
+    "65": [
+        {},
+        {}
+    ],
+    "66": [
+        {},
+        {}
+    ],
+    "67": [
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1,
+            "social-engineering": 1
+        }
+    ],
+    "68": [
+        {},
+        {}
+    ],
+    "69": [
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1,
+            "social-engineering": 1
+        }
+    ],
+    "70": [
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "71": [
+        {},
+        {}
+    ],
+    "72": [
+        {},
+        {}
+    ],
+    "73": [
+        {},
+        {}
+    ],
+    "74": [
+        {
+            "interface-interference": 2
+        },
+        {
+            "sneaking": 1
+        }
+    ],
+    "75": [
+        {},
+        {}
+    ],
+    "76": [
+        {},
+        {}
+    ],
+    "77": [
+        {
+            "forced-action": 1
+        },
+        {
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "78": [
+        {},
+        {}
+    ],
+    "79": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 1
+        }
+    ],
+    "80": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "81": [
+        {},
+        {
+            "interface-interference": 1,
+            "forced-action": 1
+        }
+    ],
+    "82": [
+        {},
+        {}
+    ],
+    "83": [
+        {
+            "interface-interference": 2,
+            "social-engineering": 1
+        },
+        {
+            "interface-interference": 1,
+            "social-engineering": 1
+        }
+    ],
+    "84": [
+        {},
+        {
+            "interface-interference": 1
+        }
+    ],
+    "85": [
+        {},
+        {}
+    ],
+    "86": [
+        {},
+        {
+            "obstruction": 1,
+            "forced-action": 1
+        }
+    ],
+    "87": [
+        {
+            "sneaking": 1
+        },
+        {
+            "sneaking": 1
+        }
+    ],
+    "88": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "89": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "90": [
+        {},
+        {}
+    ],
+    "91": [
+        {},
+        {
+            "obstruction": 1
+        }
+    ],
+    "92": [
+        {},
+        {}
+    ],
+    "93": [
+        {},
+        {}
+    ],
+    "94": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "95": [
+        {
+            "forced-action": 1
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 2,
+            "forced-action": 1
+        }
+    ],
+    "96": [
+        {
+            "sneaking": 1
+        },
+        {
+            "sneaking": 1
+        }
+    ],
+    "97": [
+        {
+            "interface-interference": 1
+        },
+        {
+            "interface-interference": 1
+        }
+    ],
+    "98": [
+        {
+            "obstruction": 1,
+            "interface-interference": 1
+        },
+        {
+            "obstruction": 1,
+            "interface-interference": 1
+        }
+    ],
+    "99": [
+        {},
+        {}
+    ]
+}

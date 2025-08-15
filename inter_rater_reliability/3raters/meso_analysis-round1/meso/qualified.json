@@ -1,0 +1,1329 @@
+{
+    "100": [
+        {},
+        {},
+        {}
+    ],
+    "101": [
+        {
+            "emotional": 1,
+            "confirmshaming": 1
+        },
+        {
+            "manipulating-choice": 2,
+            "choice-overload": 1,
+            "confirmshaming": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "confirmshaming": 1
+        }
+    ],
+    "102": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "103": [
+        {
+            "manipulating-choice": 1
+        },
+        {},
+        {}
+    ],
+    "104": [
+        {},
+        {},
+        {}
+    ],
+    "105": [
+        {},
+        {
+            "contextualizing": -1
+        },
+        {}
+    ],
+    "106": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 2,
+            "urgency": 1
+        }
+    ],
+    "107": [
+        {
+            "roach-motel": 1,
+            "hidden-info": 1
+        },
+        {
+            "hidden-info": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "108": [
+        {},
+        {},
+        {}
+    ],
+    "109": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "110": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "111": [
+        {},
+        {
+            "hidden-info": 1
+        },
+        {
+            "contextualizing": 1
+        }
+    ],
+    "112": [
+        {},
+        {},
+        {
+            "hidden-info": 1
+        }
+    ],
+    "113": [
+        {
+            "emotional": 1
+        },
+        {},
+        {}
+    ],
+    "114": [
+        {
+            "social-proof": 1
+        },
+        {
+            "social-proof": 1
+        },
+        {
+            "hidden-info": 1,
+            "social-proof": 1
+        }
+    ],
+    "115": [
+        {},
+        {},
+        {}
+    ],
+    "116": [
+        {
+            "roach-motel": 2
+        },
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "117": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1,
+            "forced-registration": 1
+        },
+        {}
+    ],
+    "118": [
+        {},
+        {
+            "roach-motel": 1,
+            "hidden-info": 1,
+            "forced-registration": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "119": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "120": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "confirmshaming": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "confirmshaming": 1
+        },
+        {
+            "adding-steps": 1,
+            "manipulating-choice": 1
+        }
+    ],
+    "121": [
+        {
+            "contextualizing": 1
+        },
+        {
+            "contextualizing": 1
+        },
+        {
+            "contextualizing": 1
+        }
+    ],
+    "122": [
+        {
+            "hidden-info": 1
+        },
+        {},
+        {}
+    ],
+    "123": [
+        {
+            "manipulating-choice": 1,
+            "nagging": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "nagging": 1
+        },
+        {
+            "emotional": 1,
+            "nagging": 1
+        }
+    ],
+    "124": [
+        {},
+        {},
+        {}
+    ],
+    "125": [
+        {},
+        {},
+        {}
+    ],
+    "126": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "127": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "nagging": 1
+        },
+        {
+            "hidden-info": 1,
+            "nagging": 1,
+            "forced-registration": 1,
+            "scarcity": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "social-proof": 1,
+            "urgency": 1
+        }
+    ],
+    "128": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "contextualizing": 1,
+            "manipulating-choice": 1,
+            "nagging": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "129": [
+        {},
+        {},
+        {}
+    ],
+    "130": [
+        {},
+        {
+            "roach-motel": 1,
+            "manipulating-choice": 1,
+            "nagging": 1
+        },
+        {
+            "bad-defaults": 1,
+            "emotional": 1,
+            "nagging": 1
+        }
+    ],
+    "131": [
+        {},
+        {},
+        {}
+    ],
+    "132": [
+        {},
+        {},
+        {}
+    ],
+    "133": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "134": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1
+        },
+        {
+            "roach-motel": 1,
+            "manipulating-choice": 1,
+            "nagging": 1
+        },
+        {}
+    ],
+    "135": [
+        {
+            "emotional": 1,
+            "confirmshaming": 1
+        },
+        {
+            "confirmshaming": 1
+        },
+        {
+            "confirmshaming": 1
+        }
+    ],
+    "136": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "nagging": 1
+        },
+        {
+            "forced-registration": 1
+        },
+        {
+            "emotional": 1
+        }
+    ],
+    "137": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "nagging": 1,
+            "social-proof": 1
+        },
+        {
+            "emotional": 1,
+            "hidden-info": 1
+        }
+    ],
+    "138": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "emotional": 1,
+            "nagging": 1,
+            "urgency": 1
+        }
+    ],
+    "139": [
+        {},
+        {
+            "manipulating-choice": 1
+        },
+        {}
+    ],
+    "140": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1
+        },
+        {
+            "bad-defaults": 1
+        }
+    ],
+    "141": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "nagging": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "142": [
+        {},
+        {},
+        {}
+    ],
+    "143": [
+        {},
+        {
+            "hidden-info": 1
+        },
+        {
+            "contextualizing": 1,
+            "manipulating-choice": 1
+        }
+    ],
+    "144": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "145": [
+        {},
+        {},
+        {}
+    ],
+    "146": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1
+        },
+        {
+            "roach-motel": 1,
+            "forced-registration": 1
+        },
+        {}
+    ],
+    "147": [
+        {
+            "manipulating-choice": 1,
+            "hidden-info": 1
+        },
+        {
+            "hidden-info": 1
+        },
+        {}
+    ],
+    "148": [
+        {
+            "emotional": 1,
+            "hidden-info": 1,
+            "forced-registration": 1
+        },
+        {
+            "roach-motel": 1,
+            "manipulating-choice": 1,
+            "hidden-info": 1,
+            "forced-registration": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "149": [
+        {
+            "manipulating-choice": 1
+        },
+        {},
+        {
+            "manipulating-choice": 1
+        }
+    ],
+    "14": [
+        {},
+        {},
+        {}
+    ],
+    "150": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "152": [
+        {
+            "emotional": 1,
+            "confirmshaming": 1
+        },
+        {
+            "confirmshaming": 1
+        },
+        {}
+    ],
+    "153": [
+        {},
+        {
+            "manipulating-choice": 1
+        },
+        {}
+    ],
+    "154": [
+        {},
+        {},
+        {}
+    ],
+    "155": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "156": [
+        {},
+        {
+            "manipulating-choice": 1
+        },
+        {}
+    ],
+    "157": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "158": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "emotional": 1,
+            "nagging": 1
+        },
+        {
+            "manipulating-choice": 1
+        }
+    ],
+    "159": [
+        {
+            "hidden-info": 1
+        },
+        {
+            "roach-motel": 1,
+            "hidden-info": 1
+        },
+        {}
+    ],
+    "15": [
+        {
+            "emotional": 1
+        },
+        {
+            "emotional": 1
+        },
+        {}
+    ],
+    "160": [
+        {},
+        {
+            "manipulating-choice": 1
+        },
+        {}
+    ],
+    "161": [
+        {
+            "nagging": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "nagging": 1,
+            "social-proof": 1
+        },
+        {}
+    ],
+    "162": [
+        {},
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "163": [
+        {},
+        {},
+        {}
+    ],
+    "16": [
+        {},
+        {},
+        {}
+    ],
+    "17": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1
+        },
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "nagging": 1
+        }
+    ],
+    "18": [
+        {},
+        {},
+        {}
+    ],
+    "19": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "nagging": 1
+        },
+        {}
+    ],
+    "20": [
+        {
+            "emotional": 1
+        },
+        {},
+        {}
+    ],
+    "21": [
+        {},
+        {},
+        {}
+    ],
+    "22": [
+        {
+            "roach-motel": 1
+        },
+        {},
+        {}
+    ],
+    "23": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "24": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "25": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "emotional": 1,
+            "nagging": 1
+        },
+        {}
+    ],
+    "26": [
+        {},
+        {},
+        {}
+    ],
+    "27": [
+        {
+            "emotional": 1
+        },
+        {
+            "emotional": 1
+        },
+        {}
+    ],
+    "28": [
+        {},
+        {},
+        {}
+    ],
+    "29": [
+        {
+            "forced-registration": 1
+        },
+        {
+            "roach-motel": 1,
+            "hidden-info": 1,
+            "forced-registration": 1
+        },
+        {
+            "hidden-info": 1,
+            "forced-registration": 1
+        }
+    ],
+    "30": [
+        {},
+        {},
+        {}
+    ],
+    "31": [
+        {},
+        {
+            "emotional": 1
+        },
+        {}
+    ],
+    "32": [
+        {
+            "manipulating-choice": 1
+        },
+        {},
+        {}
+    ],
+    "33": [
+        {
+            "forced-registration": 1
+        },
+        {
+            "roach-motel": 1,
+            "hidden-info": 1,
+            "forced-registration": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "34": [
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "emotional": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "35": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1,
+            "emotional": 1
+        }
+    ],
+    "36": [
+        {},
+        {},
+        {}
+    ],
+    "37": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "nagging": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "38": [
+        {},
+        {},
+        {}
+    ],
+    "39": [
+        {},
+        {
+            "manipulating-choice": 1
+        },
+        {}
+    ],
+    "40": [
+        {},
+        {
+            "roach-motel": 1,
+            "forced-registration": 1
+        },
+        {}
+    ],
+    "41": [
+        {},
+        {},
+        {
+            "bad-defaults": 1
+        }
+    ],
+    "42": [
+        {
+            "hidden-info": 1
+        },
+        {
+            "roach-motel": 2,
+            "forced-registration": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "43": [
+        {},
+        {},
+        {}
+    ],
+    "44": [
+        {},
+        {},
+        {}
+    ],
+    "45": [
+        {
+            "hidden-info": 1
+        },
+        {
+            "hidden-info": 1
+        },
+        {
+            "contextualizing": 1,
+            "hidden-info": 1
+        }
+    ],
+    "46": [
+        {
+            "emotional": 1,
+            "confirmshaming": 1
+        },
+        {
+            "confirmshaming": 1
+        },
+        {
+            "emotional": 1,
+            "confirmshaming": 1
+        }
+    ],
+    "47": [
+        {},
+        {
+            "hidden-info": 1
+        },
+        {
+            "contextualizing": 1
+        }
+    ],
+    "48": [
+        {},
+        {},
+        {}
+    ],
+    "49": [
+        {},
+        {},
+        {}
+    ],
+    "50": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "51": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "52": [
+        {
+            "roach-motel": 1,
+            "hidden-info": 1
+        },
+        {
+            "roach-motel": 1,
+            "hidden-info": 1,
+            "forced-registration": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "53": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "nagging": 1
+        },
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1
+        }
+    ],
+    "54": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "56": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "57": [
+        {},
+        {},
+        {}
+    ],
+    "58": [
+        {
+            "roach-motel": 1
+        },
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "59": [
+        {},
+        {
+            "hidden-info": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "60": [
+        {
+            "roach-motel": 1,
+            "hidden-info": 1
+        },
+        {
+            "roach-motel": 2,
+            "forced-registration": 1
+        },
+        {}
+    ],
+    "61": [
+        {},
+        {},
+        {}
+    ],
+    "62": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "63": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "social-proof": 1
+        },
+        {},
+        {
+            "contextualizing": 1,
+            "hidden-info": 1
+        }
+    ],
+    "64": [
+        {},
+        {},
+        {}
+    ],
+    "65": [
+        {},
+        {},
+        {
+            "bad-defaults": 1
+        }
+    ],
+    "66": [
+        {},
+        {},
+        {}
+    ],
+    "67": [
+        {
+            "manipulating-choice": 1,
+            "scarcity": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "nagging": 1,
+            "scarcity": 1
+        },
+        {
+            "contextualizing": 1,
+            "emotional": 1,
+            "hidden-info": 1
+        }
+    ],
+    "68": [
+        {},
+        {},
+        {}
+    ],
+    "69": [
+        {
+            "emotional": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "nagging": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        }
+    ],
+    "70": [
+        {
+            "manipulating-choice": 1,
+            "confirmshaming": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "confirmshaming": 1
+        },
+        {}
+    ],
+    "71": [
+        {},
+        {},
+        {}
+    ],
+    "72": [
+        {},
+        {},
+        {}
+    ],
+    "73": [
+        {},
+        {},
+        {}
+    ],
+    "74": [
+        {
+            "manipulating-choice": 1,
+            "hidden-info": 1
+        },
+        {
+            "contextualizing": 1
+        },
+        {}
+    ],
+    "75": [
+        {},
+        {},
+        {}
+    ],
+    "76": [
+        {},
+        {},
+        {}
+    ],
+    "77": [
+        {
+            "nagging": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "forced-registration": 1
+        },
+        {
+            "nagging": 1,
+            "forced-registration": 1
+        }
+    ],
+    "78": [
+        {},
+        {},
+        {}
+    ],
+    "79": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "roach-motel": 1,
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "emotional": 1
+        }
+    ],
+    "80": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "creating-barriers": 1,
+            "manipulating-choice": 1,
+            "emotional": 1
+        }
+    ],
+    "81": [
+        {},
+        {
+            "manipulating-choice": 1,
+            "nagging": 1
+        },
+        {}
+    ],
+    "82": [
+        {},
+        {},
+        {}
+    ],
+    "83": [
+        {
+            "manipulating-choice": 1,
+            "emotional": 1,
+            "urgency": 1
+        },
+        {
+            "manipulating-choice": 1,
+            "urgency": 1
+        },
+        {
+            "hidden-info": 1,
+            "urgency": 1
+        }
+    ],
+    "84": [
+        {},
+        {
+            "manipulating-choice": 1
+        },
+        {}
+    ],
+    "85": [
+        {},
+        {},
+        {}
+    ],
+    "86": [
+        {},
+        {
+            "roach-motel": 1,
+            "forced-registration": 1
+        },
+        {}
+    ],
+    "87": [
+        {
+            "contextualizing": 1
+        },
+        {
+            "contextualizing": 1
+        },
+        {}
+    ],
+    "88": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "89": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {}
+    ],
+    "90": [
+        {},
+        {},
+        {
+            "manipulating-choice": 1
+        }
+    ],
+    "91": [
+        {},
+        {
+            "roach-motel": 1
+        },
+        {
+            "hidden-info": 1
+        }
+    ],
+    "92": [
+        {},
+        {},
+        {}
+    ],
+    "93": [
+        {},
+        {},
+        {
+            "bad-defaults": 1
+        }
+    ],
+    "94": [
+        {
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1
+        },
+        {}
+    ],
+    "95": [
+        {
+            "forced-registration": 1
+        },
+        {
+            "roach-motel": 1,
+            "manipulating-choice": 1,
+            "hidden-info": 1,
+            "forced-registration": 1
+        },
+        {}
+    ],
+    "96": [
+        {
+            "contextualizing": 1
+        },
+        {
+            "contextualizing": 1
+        },
+        {
+            "contextualizing": 1
+        }
+    ],
+    "97": [
+        {
+            "emotional": 1
+        },
+        {
+            "emotional": 1
+        },
+        {
+            "manipulating-choice": 1
+        }
+    ],
+    "98": [
+        {
+            "roach-motel": 1,
+            "manipulating-choice": 1
+        },
+        {
+            "roach-motel": 1,
+            "manipulating-choice": 1
+        },
+        {
+            "manipulating-choice": 1
+        }
+    ],
+    "99": [
+        {},
+        {},
+        {}
+    ]
+}

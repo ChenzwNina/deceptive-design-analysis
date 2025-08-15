@@ -1,5 +1,7 @@
 import json
 import os
+import pdb
+import copy
 
 class MajorityAnalyzer():
     def __init__(self, path, output_path, output_no_clear_majority):
@@ -27,12 +29,14 @@ class MajorityAnalyzer():
 
         # Load category mapping from json
         mapping = self.category_mapping()
-        majority_dict[index_key] = original_value
+        original_copy = copy.deepcopy(original_value)
+        majority_dict[index_key] = original_copy
         majority_dict[index_key]["pattern"][1]["low-level"] = []
         majority_dict[index_key]["pattern"][2]["meso-level"] = []
         majority_dict[index_key]["pattern"][3]["high-level"] = []
 
         for key, value in low_level.items():
+            print("key:", key, "value:", value)
             if value >= 2:
                 name = mapping[key]["name"]
                 meso = mapping[key].get("meso-level", "")
@@ -60,8 +64,12 @@ class MajorityAnalyzer():
             majority_dict.pop(index_key, None)
 
             # Add it to no_clear_majority_dict
-            no_clear_majority_dict[index_key] = original_value
+            no_clear_majority_dict[index_key] = copy.deepcopy(original_value)
             no_clear_majority_dict[index_key]["Reason"] = "Widget majority is not clear"
+        else:
+            majority_dict[index_key]["pattern"][2]["meso-level"] = list(set(majority_dict[index_key]["pattern"][2]["meso-level"]))
+            majority_dict[index_key]["pattern"][3]["high-level"] = list(set(majority_dict[index_key]["pattern"][3]["high-level"]))
+
 
     
     def iterate(self):
@@ -69,13 +77,12 @@ class MajorityAnalyzer():
         no_clear_majority_dict = {}
         for key, value in self.data.items():
             # print(key, value)
-            reason_list = ["Labeler number is not equal to 3", "Widget majority is not clear"]
             dark_pattern_selection = value["pattern"][0]["dark pattern"]
 
             # Number of labelers is not equal to 3, add to no_clear_majority_dict, go to next widget
             labeler_number = len(dark_pattern_selection)
             if labeler_number != 3:
-                no_clear_majority_dict[key] = value
+                no_clear_majority_dict[key] = copy.deepcopy(value)
                 no_clear_majority_dict[key]["Reason"] = "Labeler number is not equal to 3"
                 continue
             
@@ -96,5 +103,12 @@ class MajorityAnalyzer():
         print(f"{len(no_clear_majority_dict)} widgets has not passed majority votes")
         return majority_dict, no_clear_majority_dict
 
-path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "label_cleaning", "cleaned_label.json"))
-analyzer = MajorityAnalyzer(path, "majority_label.json", "no_clear_majority.json")
+round_number = 1
+path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "label_cleaning", f"round{round_number}/cleaned_label.json"))
+
+folder_name = f"round{round_number}"
+
+if not os.path.isdir(folder_name):
+    os.makedirs(folder_name)
+
+analyzer = MajorityAnalyzer(path, f"{folder_name}/majority_label.json", f"{folder_name}/no_clear_majority.json")

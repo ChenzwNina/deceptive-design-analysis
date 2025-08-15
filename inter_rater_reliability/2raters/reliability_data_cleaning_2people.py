@@ -77,8 +77,8 @@ def clean_out_not_qualified_data(download_path, units):
     with open(f"{download_path}/qualified.json", "w") as f:
                 json.dump(qualified, f, indent=4)
 
-round_number = 1
-folder_name = f"round{round_number}/leica-luna"
+round_number = 3
+folder_name = f"round{round_number}/hanyu-luna"
 if not os.path.isdir(folder_name):
     os.makedirs(folder_name)
 

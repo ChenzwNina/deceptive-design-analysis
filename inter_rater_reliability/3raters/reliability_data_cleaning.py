@@ -42,7 +42,6 @@ def format_data(download_path, data, labels):
             print("Current index: ", index_int, "Labeled by", rater)
 
             if str(index_int) not in total_label:
-                print("Not in total_label")
                 total_label[str(index_int)] = []
             
             if value["value"]["dark_pattern_type"] == "(none)":
@@ -77,7 +76,7 @@ def clean_out_not_qualified_data(download_path, units):
     with open(f"{download_path}/qualified.json", "w") as f:
                 json.dump(qualified, f, indent=4)
 
-round_number = 2
+round_number = 1
 folder_name = f"round{round_number}"
 if not os.path.isdir(folder_name):
     os.makedirs(folder_name)
