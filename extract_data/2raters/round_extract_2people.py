@@ -124,12 +124,12 @@ with open(path) as f:
 
 
 # Extract data range
-start_index = 524
-end_index = 696
-rater_name = ["luna", "Hanyu"]
-round_number = 3
+start_index = 165
+end_index = 343
+rater_name = ["luna", "Nina"]
+round_number = 2
 
-folder_name = f"round{round_number}/hanyu-luna"
+folder_name = f"round{round_number}/nina-luna"
 if not os.path.isdir(folder_name):
     os.makedirs(folder_name)
     
